@@ -1,0 +1,721 @@
+ID,Name,Age,Nationality,Overall,Potential,Club,Value,Wage,Preferred Foot,International Reputation,Weak Foot,Skill Moves,Work Rate,Body Type,Position,Jersey Number,Joined,Loaned From,Contract Valid Until,Height,Weight,Crossing,Finishing
+158023,L. Messi,31,Argentina,94,94,FC Barcelona,Ã¢â€šÂ¬110.5M,Ã¢â€šÂ¬565K,Left,5,4,4,Medium/ Medium,Messi,RF,10,"Jul 1, 2004",,2021,5'7,159lbs,84,95
+20801,Cristiano Ronaldo,33,Portugal,94,94,Juventus,Ã¢â€šÂ¬77M,Ã¢â€šÂ¬405K,Right,5,4,5,High/ Low,C. Ronaldo,ST,7,"Jul 10, 2018",,2022,6'2,183lbs,84,94
+190871,Neymar Jr,26,Brazil,92,93,Paris Saint-Germain,Ã¢â€šÂ¬118.5M,Ã¢â€šÂ¬290K,Right,5,5,5,High/ Medium,Neymar,LW,10,"Aug 3, 2017",,2022,5'9,150lbs,79,87
+193080,De Gea,27,Spain,91,93,Manchester United,Ã¢â€šÂ¬72M,Ã¢â€šÂ¬260K,Right,4,3,1,Medium/ Medium,Lean,GK,1,"Jul 1, 2011",,2020,6'4,168lbs,17,13
+192985,K. De Bruyne,27,Belgium,91,92,Manchester City,Ã¢â€šÂ¬102M,Ã¢â€šÂ¬355K,Right,4,5,4,High/ High,Normal,RCM,7,"Aug 30, 2015",,2023,5'11,154lbs,93,82
+183277,E. Hazard,27,Belgium,91,91,Chelsea,Ã¢â€šÂ¬93M,Ã¢â€šÂ¬340K,Right,4,4,4,High/ Medium,Normal,LF,10,"Jul 1, 2012",,2020,5'8,163lbs,81,84
+177003,L. ModriÃ„â€¡,32,Croatia,91,91,Real Madrid,Ã¢â€šÂ¬67M,Ã¢â€šÂ¬420K,Right,4,4,4,High/ High,Lean,RCM,10,"Aug 1, 2012",,2020,5'8,146lbs,86,72
+176580,L. SuÃƒÂ¡rez,31,Uruguay,91,91,FC Barcelona,Ã¢â€šÂ¬80M,Ã¢â€šÂ¬455K,Right,5,4,3,High/ Medium,Normal,RS,9,"Jul 11, 2014",,2021,6'0,190lbs,77,93
+155862,Sergio Ramos,32,Spain,91,91,Real Madrid,Ã¢â€šÂ¬51M,Ã¢â€šÂ¬380K,Right,4,3,3,High/ Medium,Normal,RCB,15,"Aug 1, 2005",,2020,6'0,181lbs,66,60
+200389,J. Oblak,25,Slovenia,90,93,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬68M,Ã¢â€šÂ¬94K,Right,3,3,1,Medium/ Medium,Normal,GK,1,"Jul 16, 2014",,2021,6'2,192lbs,13,11
+188545,R. Lewandowski,29,Poland,90,90,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬77M,Ã¢â€šÂ¬205K,Right,4,4,4,High/ Medium,Normal,ST,9,"Jul 1, 2014",,2021,6'0,176lbs,62,91
+182521,T. Kroos,28,Germany,90,90,Real Madrid,Ã¢â€šÂ¬76.5M,Ã¢â€šÂ¬355K,Right,4,5,3,Medium/ Medium,Normal,LCM,8,"Jul 17, 2014",,2022,6'0,168lbs,88,76
+182493,D. GodÃƒÂ­n,32,Uruguay,90,90,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬44M,Ã¢â€šÂ¬125K,Right,3,3,2,Medium/ High,Lean,CB,10,"Aug 4, 2010",,2019,6'2,172lbs,55,42
+168542,David Silva,32,Spain,90,90,Manchester City,Ã¢â€šÂ¬60M,Ã¢â€šÂ¬285K,Left,4,2,4,High/ Medium,Normal,LCM,21,"Jul 14, 2010",,2020,5'8,148lbs,84,76
+215914,N. KantÃƒÂ©,27,France,89,90,Chelsea,Ã¢â€šÂ¬63M,Ã¢â€šÂ¬225K,Right,3,3,2,Medium/ High,Lean,LDM,13,"Jul 16, 2016",,2023,5'6,159lbs,68,65
+211110,P. Dybala,24,Argentina,89,94,Juventus,Ã¢â€šÂ¬89M,Ã¢â€šÂ¬205K,Left,3,3,4,High/ Medium,Normal,LF,21,"Jul 1, 2015",,2022,5'10,165lbs,82,84
+202126,H. Kane,24,England,89,91,Tottenham Hotspur,Ã¢â€šÂ¬83.5M,Ã¢â€šÂ¬205K,Right,3,4,3,High/ High,Normal,ST,9,"Jul 1, 2010",,2024,6'2,196lbs,75,94
+194765,A. Griezmann,27,France,89,90,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬78M,Ã¢â€šÂ¬145K,Left,4,3,4,High/ High,Lean,CAM,7,"Jul 28, 2014",,2023,5'9,161lbs,82,90
+192448,M. ter Stegen,26,Germany,89,92,FC Barcelona,Ã¢â€šÂ¬58M,Ã¢â€šÂ¬240K,Right,3,4,1,Medium/ Medium,Normal,GK,22,"Jul 1, 2014",,2022,6'2,187lbs,15,14
+192119,T. Courtois,26,Belgium,89,90,Real Madrid,Ã¢â€šÂ¬53.5M,Ã¢â€šÂ¬240K,Left,4,2,1,Medium/ Medium,Courtois,GK,1,"Aug 9, 2018",,2024,6'6,212lbs,14,14
+189511,Sergio Busquets,29,Spain,89,89,FC Barcelona,Ã¢â€šÂ¬51.5M,Ã¢â€šÂ¬315K,Right,4,3,3,Medium/ Medium,Lean,CDM,5,"Sep 1, 2008",,2023,6'2,168lbs,62,67
+179813,E. Cavani,31,Uruguay,89,89,Paris Saint-Germain,Ã¢â€šÂ¬60M,Ã¢â€šÂ¬200K,Right,4,4,3,High/ High,Lean,LS,21,"Jul 16, 2013",,2020,6'1,170lbs,70,89
+167495,M. Neuer,32,Germany,89,89,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬38M,Ã¢â€šÂ¬130K,Right,5,4,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2011",,2021,6'4,203lbs,15,13
+153079,S. AgÃƒÂ¼ero,30,Argentina,89,89,Manchester City,Ã¢â€šÂ¬64.5M,Ã¢â€šÂ¬300K,Right,4,4,4,High/ Medium,Stocky,ST,10,"Jul 28, 2011",,2021,5'8,154lbs,70,93
+138956,G. Chiellini,33,Italy,89,89,Juventus,Ã¢â€šÂ¬27M,Ã¢â€šÂ¬215K,Left,4,3,2,Medium/ High,Normal,LCB,3,"Jul 1, 2005",,2020,6'2,187lbs,58,33
+231747,K. MbappÃƒÂ©,19,France,88,95,Paris Saint-Germain,Ã¢â€šÂ¬81M,Ã¢â€šÂ¬100K,Right,3,4,5,High/ Medium,Lean,RM,10,"Jul 1, 2018",,2022,5'10,161lbs,77,88
+209331,M. Salah,26,Egypt,88,89,Liverpool,Ã¢â€šÂ¬69.5M,Ã¢â€šÂ¬255K,Left,3,3,4,High/ Medium,PLAYER_BODY_TYPE_25,RM,10,"Jul 1, 2017",,2023,5'9,157lbs,78,90
+200145,Casemiro,26,Brazil,88,90,Real Madrid,Ã¢â€šÂ¬59.5M,Ã¢â€šÂ¬285K,Right,3,3,2,Medium/ High,Normal,CDM,14,"Jul 11, 2013",,2021,6'1,185lbs,52,59
+198710,J. RodrÃƒÂ­guez,26,Colombia,88,89,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬69.5M,Ã¢â€šÂ¬315K,Left,4,3,4,Medium/ Medium,Normal,LAM,10,,Real Madrid,"Jun 30, 2019",5'11,172lbs,90,83
+198219,L. Insigne,27,Italy,88,88,Napoli,Ã¢â€šÂ¬62M,Ã¢â€šÂ¬165K,Right,3,3,4,High/ Medium,Normal,LW,10,"Jul 1, 2010",,2022,5'4,130lbs,86,77
+197781,Isco,26,Spain,88,91,Real Madrid,Ã¢â€šÂ¬73.5M,Ã¢â€šÂ¬315K,Right,3,3,4,High/ Medium,Normal,LW,22,"Jul 3, 2013",,2022,5'9,174lbs,75,79
+190460,C. Eriksen,26,Denmark,88,91,Tottenham Hotspur,Ã¢â€šÂ¬73.5M,Ã¢â€šÂ¬205K,Right,3,5,4,High/ Medium,Lean,CAM,10,"Aug 30, 2013",,2020,5'11,168lbs,88,80
+189242,Coutinho,26,Brazil,88,89,FC Barcelona,Ã¢â€šÂ¬69.5M,Ã¢â€šÂ¬340K,Right,3,4,5,High/ High,Normal,LW,7,"Jan 6, 2018",,2023,5'8,150lbs,79,79
+188567,P. Aubameyang,29,Gabon,88,88,Arsenal,Ã¢â€šÂ¬59M,Ã¢â€šÂ¬265K,Right,3,4,4,Medium/ Low,Lean,LM,14,"Jan 31, 2018",,2021,6'2,176lbs,77,88
+178603,M. Hummels,29,Germany,88,88,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬46M,Ã¢â€šÂ¬160K,Right,4,3,3,High/ Medium,Normal,LCB,5,"Jul 1, 2016",,2021,6'3,203lbs,64,55
+176676,Marcelo,30,Brazil,88,88,Real Madrid,Ã¢â€šÂ¬43M,Ã¢â€šÂ¬285K,Left,4,4,5,High/ Low,Normal,LB,12,"Jan 1, 2007",,2022,5'9,176lbs,90,70
+173731,G. Bale,28,Wales,88,88,Real Madrid,Ã¢â€šÂ¬60M,Ã¢â€šÂ¬355K,Left,4,3,4,High/ Medium,Lean,ST,11,"Sep 2, 2013",,2022,6'1,181lbs,87,86
+167948,H. Lloris,31,France,88,88,Tottenham Hotspur,Ã¢â€šÂ¬36M,Ã¢â€šÂ¬150K,Left,4,1,1,Medium/ Medium,Lean,GK,1,"Aug 1, 2012",,2022,6'2,181lbs,13,10
+167664,G. HiguaÃƒÂ­n,30,Argentina,88,88,Milan,Ã¢â€šÂ¬57M,Ã¢â€šÂ¬245K,Right,4,4,3,High/ Medium,Normal,LS,9,,Juventus,"Jun 30, 2019",6'1,196lbs,68,92
+164240,Thiago Silva,33,Brazil,88,88,Paris Saint-Germain,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬165K,Right,4,3,2,Medium/ High,Normal,RCB,2,"Jul 1, 2012",,2020,6'0,181lbs,60,38
+162835,S. HandanoviÃ„Â,33,Slovenia,88,88,Inter,Ã¢â€šÂ¬30M,Ã¢â€šÂ¬110K,Right,3,2,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2012",,2021,6'4,203lbs,12,10
+1179,G. Buffon,40,Italy,88,88,Paris Saint-Germain,Ã¢â€šÂ¬4M,Ã¢â€šÂ¬77K,Right,4,2,1,Medium/ Medium,Normal,GK,1,"Jul 6, 2018",,2019,6'4,203lbs,13,15
+205600,S. Umtiti,24,France,87,92,FC Barcelona,Ã¢â€šÂ¬57M,Ã¢â€šÂ¬205K,Left,3,3,2,Medium/ High,Normal,CB,23,"Jul 12, 2016",,2023,6'0,165lbs,69,51
+201399,M. Icardi,25,Argentina,87,90,Inter,Ã¢â€šÂ¬64.5M,Ã¢â€šÂ¬130K,Right,3,4,3,Medium/ Low,Normal,ST,9,"Jul 9, 2013",,2021,5'11,165lbs,46,91
+201024,K. Koulibaly,27,Senegal,87,90,Napoli,Ã¢â€šÂ¬51M,Ã¢â€šÂ¬115K,Right,3,3,2,High/ High,Normal,LCB,26,"Jul 1, 2014",,2021,6'2,196lbs,30,19
+195864,P. Pogba,25,France,87,91,Manchester United,Ã¢â€šÂ¬64M,Ã¢â€šÂ¬210K,Right,4,4,5,High/ Low,Normal,RDM,6,"Aug 9, 2016",,2021,6'4,185lbs,80,73
+193041,K. Navas,31,Costa Rica,87,87,Real Madrid,Ã¢â€šÂ¬30.5M,Ã¢â€šÂ¬195K,Right,3,3,1,Medium/ Medium,Normal,GK,1,"Aug 3, 2014",,2020,6'1,176lbs,11,15
+192505,R. Lukaku,25,Belgium,87,89,Manchester United,Ã¢â€šÂ¬62.5M,Ã¢â€šÂ¬230K,Left,3,3,3,Medium/ Medium,Stocky,ST,9,"Jul 10, 2017",,2022,6'3,207lbs,78,87
+192387,C. Immobile,28,Italy,87,87,Lazio,Ã¢â€šÂ¬52M,Ã¢â€šÂ¬115K,Right,3,4,3,High/ Medium,Normal,ST,17,"Jul 27, 2016",,2023,6'1,187lbs,55,90
+189332,Jordi Alba,29,Spain,87,87,FC Barcelona,Ã¢â€šÂ¬38M,Ã¢â€šÂ¬250K,Left,3,3,3,High/ Medium,Normal,LB,18,"Jul 1, 2012",,2020,5'7,150lbs,87,73
+175943,D. Mertens,31,Belgium,87,87,Napoli,Ã¢â€šÂ¬45M,Ã¢â€šÂ¬135K,Right,3,4,4,High/ Low,Normal,RF,14,"Jul 1, 2013",,2020,5'7,134lbs,77,86
+172871,J. Vertonghen,31,Belgium,87,87,Tottenham Hotspur,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬155K,Left,3,3,3,High/ High,Normal,LCB,5,"Jul 1, 2012",,2019,6'2,190lbs,68,56
+171877,M. HamÃ…Â¡ÃƒÂ­k,30,Slovakia,87,87,Napoli,Ã¢â€šÂ¬46.5M,Ã¢â€šÂ¬125K,Right,3,5,3,High/ Medium,Normal,LCM,17,"Jul 1, 2007",,2020,6'0,174lbs,78,79
+168651,I. RakitiÃ„â€¡,30,Croatia,87,87,FC Barcelona,Ã¢â€šÂ¬46.5M,Ã¢â€šÂ¬260K,Right,4,3,3,High/ High,Normal,RCM,4,"Jul 1, 2014",,2021,6'0,172lbs,84,83
+152729,PiquÃƒÂ©,31,Spain,87,87,FC Barcelona,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬240K,Right,4,3,2,High/ Medium,Normal,RCB,3,"Jul 1, 2008",,2022,6'4,187lbs,57,64
+222492,L. SanÃƒÂ©,22,Germany,86,92,Manchester City,Ã¢â€šÂ¬61M,Ã¢â€šÂ¬195K,Left,2,3,4,High/ Medium,Lean,LW,19,"Aug 2, 2016",,2021,6'0,165lbs,83,81
+218667,Bernardo Silva,23,Portugal,86,91,Manchester City,Ã¢â€šÂ¬59.5M,Ã¢â€šÂ¬180K,Left,2,3,4,High/ Medium,Lean,RW,11,"Jul 1, 2017",,2022,5'8,141lbs,85,75
+210257,Ederson,24,Brazil,86,90,Manchester City,Ã¢â€šÂ¬41.5M,Ã¢â€šÂ¬125K,Left,2,3,1,Medium/ Medium,Normal,GK,31,"Jul 1, 2017",,2025,6'2,190lbs,20,14
+208722,S. ManÃƒÂ©,26,Senegal,86,87,Liverpool,Ã¢â€šÂ¬52M,Ã¢â€šÂ¬195K,Right,3,4,4,High/ Medium,Lean,LM,10,"Jul 1, 2016",,2023,5'9,152lbs,73,84
+203376,V. van Dijk,26,Netherlands,86,88,Liverpool,Ã¢â€šÂ¬44.5M,Ã¢â€šÂ¬165K,Right,3,3,2,Medium/ Medium,Normal,LCB,4,"Jan 1, 2018",,2023,6'4,203lbs,53,52
+202652,R. Sterling,23,England,86,89,Manchester City,Ã¢â€šÂ¬56.5M,Ã¢â€šÂ¬195K,Right,3,3,4,High/ Medium,Lean,RW,10,"Jul 14, 2015",,2023,5'7,152lbs,77,77
+201942,Roberto Firmino,26,Brazil,86,87,Liverpool,Ã¢â€šÂ¬53M,Ã¢â€šÂ¬195K,Right,3,4,4,High/ High,Lean,CAM,9,"Jul 6, 2015",,2023,5'11,168lbs,72,87
+201535,R. Varane,25,France,86,91,Real Madrid,Ã¢â€šÂ¬50M,Ã¢â€šÂ¬210K,Right,3,3,2,Medium/ High,Lean,RCB,4,"Jul 1, 2011",,2022,6'3,179lbs,36,40
+199556,M. Verratti,25,Italy,86,89,Paris Saint-Germain,Ã¢â€šÂ¬55M,Ã¢â€šÂ¬135K,Right,3,4,4,Medium/ High,Normal,LCM,6,"Jul 18, 2012",,2021,5'5,132lbs,72,60
+191043,Alex Sandro,27,Brazil,86,86,Juventus,Ã¢â€šÂ¬36.5M,Ã¢â€šÂ¬160K,Left,3,3,3,High/ High,Normal,LB,12,"Aug 21, 2015",,2020,5'11,176lbs,84,55
+190483,Douglas Costa,27,Brazil,86,86,Juventus,Ã¢â€šÂ¬46.5M,Ã¢â€šÂ¬175K,Left,3,3,5,High/ Medium,Normal,LM,11,"Jul 1, 2018",,2022,5'8,154lbs,84,67
+189596,T. MÃƒÂ¼ller,28,Germany,86,86,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬45M,Ã¢â€šÂ¬135K,Right,4,4,3,High/ High,Lean,CAM,13,"Aug 10, 2008",,2021,6'1,165lbs,79,87
+189509,Thiago,27,Spain,86,86,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬45.5M,Ã¢â€šÂ¬130K,Right,3,3,5,Medium/ Medium,Normal,CM,19,"Jul 14, 2013",,2021,5'9,154lbs,72,69
+188350,M. Reus,29,Germany,86,86,Borussia Dortmund,Ã¢â€šÂ¬43.5M,Ã¢â€šÂ¬100K,Right,4,4,4,High/ Medium,Lean,LM,11,"Jul 1, 2012",,2023,5'11,157lbs,79,87
+184432,Azpilicueta,28,Spain,86,86,Chelsea,Ã¢â€šÂ¬35M,Ã¢â€šÂ¬175K,Right,3,3,2,Medium/ Medium,Normal,RB,14,"Aug 24, 2012",,2022,5'10,168lbs,81,46
+184344,L. Bonucci,31,Italy,86,86,Juventus,Ã¢â€šÂ¬30M,Ã¢â€šÂ¬160K,Right,3,3,2,Low/ High,Lean,RCB,19,"Aug 2, 2018",,2023,6'3,187lbs,44,48
+184087,T. Alderweireld,29,Belgium,86,87,Tottenham Hotspur,Ã¢â€šÂ¬39M,Ã¢â€šÂ¬150K,Right,3,3,2,Medium/ Medium,Normal,RCB,2,"Jul 8, 2015",,2020,6'1,179lbs,64,45
+180206,M. PjaniÃ„â€¡,28,Bosnia Herzegovina,86,86,Juventus,Ã¢â€šÂ¬44M,Ã¢â€šÂ¬180K,Right,3,4,3,Medium/ Medium,Normal,CDM,5,"Jul 1, 2016",,2023,5'10,159lbs,80,60
+177509,M. Benatia,31,Morocco,86,86,Juventus,Ã¢â€šÂ¬30M,Ã¢â€šÂ¬160K,Right,3,3,2,Medium/ High,Normal,CB,4,"Aug 26, 2014",,2020,6'2,207lbs,45,47
+176635,M. Ãƒâ€“zil,29,Germany,86,86,Arsenal,Ã¢â€šÂ¬43.5M,Ã¢â€šÂ¬190K,Left,4,2,4,Medium/ Low,Lean,CAM,10,"Sep 2, 2013",,2021,5'11,168lbs,83,73
+135507,Fernandinho,33,Brazil,86,86,Manchester City,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬185K,Right,3,4,3,Medium/ High,Lean,CDM,25,"Jul 1, 2013",,2020,5'10,148lbs,68,69
+41,Iniesta,34,Spain,86,86,Vissel Kobe,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬21K,Right,4,4,4,High/ Medium,Normal,LF,8,"Jul 16, 2018",,2021,5'7,150lbs,77,70
+232363,M. Ã…Â kriniar,23,Slovakia,85,92,Inter,Ã¢â€šÂ¬46.5M,Ã¢â€šÂ¬82K,Right,1,4,2,Medium/ High,Normal,LCB,37,"Jul 7, 2017",,2022,6'2,176lbs,40,42
+223848,S. MilinkoviÃ„â€¡-SaviÃ„â€¡,23,Serbia,85,90,Lazio,Ã¢â€šÂ¬50.5M,Ã¢â€šÂ¬73K,Right,2,4,4,High/ Medium,Normal,CM,21,"Aug 6, 2015",,2023,6'3,168lbs,64,80
+220834,Marco Asensio,22,Spain,85,92,Real Madrid,Ã¢â€šÂ¬54M,Ã¢â€šÂ¬215K,Left,3,3,4,High/ Medium,Normal,RW,10,"Jul 1, 2015",,2023,6'0,168lbs,82,82
+216594,N. Fekir,24,France,85,89,Olympique Lyonnais,Ã¢â€šÂ¬50M,Ã¢â€šÂ¬92K,Left,3,3,4,High/ Medium,Stocky,CAM,18,"Jul 1, 2013",,2020,5'8,165lbs,83,82
+212831,Alisson,25,Brazil,85,90,Liverpool,Ã¢â€šÂ¬36.5M,Ã¢â€šÂ¬115K,Right,3,3,1,Medium/ Medium,Normal,GK,13,"Jul 19, 2018",,2024,6'3,201lbs,17,13
+212622,J. Kimmich,23,Germany,85,88,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬40.5M,Ã¢â€šÂ¬92K,Right,3,4,3,High/ Low,Lean,RCM,18,"Jul 1, 2015",,2023,5'9,154lbs,90,66
+208421,SaÃƒÂºl,23,Spain,85,90,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬50.5M,Ã¢â€šÂ¬77K,Left,3,4,3,High/ High,Lean,RCM,6,"Jul 1, 2013",,2026,6'0,170lbs,69,78
+204485,R. Mahrez,27,Algeria,85,85,Manchester City,Ã¢â€šÂ¬40.5M,Ã¢â€šÂ¬205K,Left,3,4,5,Medium/ Medium,Lean,RW,26,"Jul 10, 2018",,2023,5'10,148lbs,81,80
+197445,D. Alaba,26,Austria,85,87,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬38M,Ã¢â€šÂ¬110K,Left,4,4,3,High/ Medium,Lean,LB,8,"Feb 10, 2010",,2021,5'11,168lbs,81,63
+193747,Koke,26,Spain,85,86,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬45M,Ã¢â€šÂ¬88K,Right,3,4,3,High/ High,Normal,LM,8,"Jan 1, 2011",,2019,5'9,163lbs,86,72
+193301,A. Lacazette,27,France,85,86,Arsenal,Ã¢â€šÂ¬45M,Ã¢â€šÂ¬180K,Right,3,4,4,High/ High,Normal,ST,9,"Jul 5, 2017",,2022,5'9,161lbs,64,88
+192774,K. Manolas,27,Greece,85,87,Roma,Ã¢â€šÂ¬37.5M,Ã¢â€šÂ¬96K,Right,3,2,2,Low/ High,Normal,LCB,4,"Aug 26, 2014",,2022,6'2,183lbs,27,10
+192366,N. Otamendi,30,Argentina,85,85,Manchester City,Ã¢â€šÂ¬28.5M,Ã¢â€šÂ¬170K,Right,3,3,2,High/ High,Normal,CB,30,"Aug 20, 2015",,2022,6'0,179lbs,52,54
+189513,Parejo,29,Spain,85,85,Valencia CF,Ã¢â€šÂ¬37M,Ã¢â€šÂ¬66K,Right,2,4,3,Medium/ Low,Lean,RCM,10,"Jul 1, 2011",,2020,6'0,163lbs,84,79
+187961,Paulinho,29,Brazil,85,85,Guangzhou Evergrande Taobao FC,Ã¢â€šÂ¬37M,Ã¢â€šÂ¬235K,Right,3,3,3,High/ High,Lean,LDM,9,,FC Barcelona,"Jun 30, 2019",6'0,157lbs,64,81
+186153,W. SzczÃ„â„¢sny,28,Poland,85,87,Juventus,Ã¢â€šÂ¬32M,Ã¢â€šÂ¬125K,Right,3,3,1,Medium/ Medium,Lean,GK,1,"Jul 19, 2017",,2021,6'5,198lbs,12,12
+184941,A. SÃƒÂ¡nchez,29,Chile,85,85,Manchester United,Ã¢â€šÂ¬37.5M,Ã¢â€šÂ¬215K,Right,4,3,4,High/ High,Normal,RW,7,"Jan 22, 2018",,2022,5'7,163lbs,77,80
+184267,Y. Brahimi,28,Algeria,85,85,FC Porto,Ã¢â€šÂ¬39M,Ã¢â€šÂ¬28K,Right,3,3,4,High/ Medium,Normal,LM,8,"Jul 22, 2014",,2019,5'9,146lbs,79,76
+183907,J. Boateng,29,Germany,85,85,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬30M,Ã¢â€šÂ¬115K,Right,4,4,2,Medium/ Medium,Stocky,RCB,17,"Jul 14, 2011",,2021,6'4,198lbs,69,34
+181872,A. Vidal,31,Chile,85,85,FC Barcelona,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬205K,Right,4,4,3,Medium/ Medium,Normal,CAM,8,"Aug 6, 2018",,2021,5'11,165lbs,76,75
+181458,I. PeriÃ…Â¡iÃ„â€¡,29,Croatia,85,85,Inter,Ã¢â€šÂ¬37.5M,Ã¢â€šÂ¬110K,Right,3,5,4,Medium/ Medium,Lean,LM,44,"Sep 1, 2015",,2022,6'1,176lbs,83,79
+180930,E. DÃ…Â¾eko,32,Bosnia Herzegovina,85,85,Roma,Ã¢â€šÂ¬30.5M,Ã¢â€šÂ¬115K,Right,3,5,2,Medium/ Medium,Lean,ST,9,"Jul 1, 2015",,2020,6'4,185lbs,63,89
+179846,S. Khedira,31,Germany,85,85,Juventus,Ã¢â€šÂ¬33M,Ã¢â€šÂ¬160K,Right,3,4,2,High/ High,Normal,RCM,6,"Jul 1, 2015",,2021,6'2,198lbs,72,72
+179844,Diego Costa,29,Spain,85,85,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬38.5M,Ã¢â€šÂ¬100K,Right,4,4,2,High/ Medium,Normal,LS,19,"Jan 1, 2018",,2021,6'2,190lbs,65,87
+178518,R. Nainggolan,30,Belgium,85,85,Inter,Ã¢â€šÂ¬35.5M,Ã¢â€šÂ¬105K,Right,3,3,3,High/ High,Stocky,CAM,14,"Jul 1, 2018",,2022,5'9,170lbs,73,75
+171919,Naldo,35,Brazil,85,85,FC Schalke 04,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬38K,Right,3,4,2,Medium/ Medium,Lean,CB,29,"Jul 1, 2016",,2020,6'6,201lbs,45,57
+170890,B. Matuidi,31,France,85,85,Juventus,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬145K,Left,3,2,2,High/ High,Lean,LM,14,"Aug 18, 2017",,2020,5'11,165lbs,75,64
+168609,Miranda,33,Brazil,85,85,Inter,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬96K,Right,3,3,2,Medium/ High,Lean,CB,23,"Jul 1, 2017",,2020,6'1,172lbs,48,43
+165153,K. Benzema,30,France,85,85,Real Madrid,Ã¢â€šÂ¬37M,Ã¢â€šÂ¬240K,Right,4,4,4,Medium/ Low,Normal,ST,9,"Jul 9, 2009",,2021,6'1,179lbs,75,81
+164169,Filipe LuÃƒÂ­s,32,Brazil,85,85,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬81K,Left,3,3,3,High/ Medium,Lean,LB,3,"Jul 28, 2015",,2019,6'0,163lbs,86,59
+139720,V. Kompany,32,Belgium,85,85,Manchester City,Ã¢â€šÂ¬22M,Ã¢â€šÂ¬170K,Right,4,3,2,Medium/ High,Normal,CB,4,"Aug 22, 2008",,2019,6'3,187lbs,61,45
+120533,Pepe,35,Portugal,85,85,BeÃ…Å¸iktaÃ…Å¸ JK,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬57K,Right,4,3,2,Medium/ High,Lean,RCB,3,"Jul 4, 2017",,2019,6'2,179lbs,46,46
+41236,Z. IbrahimoviÃ„â€¡,36,Sweden,85,85,LA Galaxy,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬15K,Right,5,4,5,Medium/ Low,Normal,RS,9,"Mar 23, 2018",,2022,6'5,209lbs,73,86
+220793,D. SÃƒÂ¡nchez,22,Colombia,84,88,Tottenham Hotspur,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬105K,Right,2,3,2,Medium/ High,Normal,RCB,23,"Aug 26, 2017",,2024,6'2,174lbs,36,40
+216460,J. GimÃƒÂ©nez,23,Uruguay,84,88,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬63K,Right,2,3,2,Medium/ High,Normal,RCB,24,"Jul 1, 2013",,2023,6'1,176lbs,47,37
+212462,Alex Telles,25,Brazil,84,87,FC Porto,Ã¢â€šÂ¬32M,Ã¢â€šÂ¬22K,Left,3,2,3,High/ Medium,Lean,LB,13,"Jul 13, 2016",,2021,5'11,157lbs,89,65
+212218,A. Laporte,24,France,84,88,Manchester City,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬135K,Left,2,3,2,Medium/ Medium,Normal,LCB,14,"Jan 30, 2018",,2023,6'2,187lbs,58,45
+212198,Bruno Fernandes,23,Portugal,84,88,Sporting CP,Ã¢â€šÂ¬40.5M,Ã¢â€šÂ¬22K,Right,2,3,4,High/ Medium,Lean,LCM,8,"Jul 1, 2017",,2023,5'10,152lbs,84,73
+212190,N. SÃƒÂ¼le,22,Germany,84,90,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬36.5M,Ã¢â€šÂ¬84K,Right,2,3,2,Medium/ Medium,Stocky,CB,15,"Jul 1, 2017",,2022,6'5,214lbs,30,20
+211300,A. Martial,22,France,84,90,Manchester United,Ã¢â€šÂ¬42.5M,Ã¢â€šÂ¬165K,Right,3,3,4,Medium/ Medium,Normal,LW,11,"Sep 1, 2015",,2019,6'0,168lbs,76,84
+211117,D. Alli,22,England,84,90,Tottenham Hotspur,Ã¢â€šÂ¬42.5M,Ã¢â€šÂ¬115K,Right,3,3,4,High/ High,Lean,LCM,20,"Feb 2, 2015",,2024,6'2,176lbs,69,83
+209499,Fabinho,24,Brazil,84,88,Liverpool,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬120K,Right,3,2,3,Medium/ Medium,Lean,CDM,3,"Jul 1, 2018",,2023,6'2,172lbs,79,66
+207865,Marquinhos,24,Brazil,84,89,Paris Saint-Germain,Ã¢â€šÂ¬35.5M,Ã¢â€šÂ¬90K,Right,3,3,2,Medium/ Medium,Lean,LDM,5,"Jul 19, 2013",,2022,6'0,165lbs,72,33
+207566,William Carvalho,26,Portugal,84,86,Real Betis,Ã¢â€šÂ¬31.5M,Ã¢â€šÂ¬38K,Right,3,4,3,Medium/ Medium,Normal,CDM,14,"Jul 13, 2018",,2023,6'2,183lbs,68,52
+205498,Jorginho,26,Italy,84,87,Chelsea,Ã¢â€šÂ¬38M,Ã¢â€šÂ¬155K,Right,2,3,3,Medium/ Medium,Lean,CM,8,"Jul 16, 2018",,2023,5'11,148lbs,75,57
+204970,F. Thauvin,25,France,84,87,Olympique de Marseille,Ã¢â€šÂ¬39M,Ã¢â€šÂ¬72K,Left,2,3,4,High/ Medium,Normal,RM,20,"Jul 1, 2017",,2021,5'10,154lbs,83,81
+204963,Carvajal,26,Spain,84,87,Real Madrid,Ã¢â€šÂ¬31.5M,Ã¢â€šÂ¬185K,Right,3,3,3,High/ High,Stocky,RB,2,"Jul 5, 2013",,2022,5'8,161lbs,83,41
+202556,M. Depay,24,Netherlands,84,89,Olympique Lyonnais,Ã¢â€šÂ¬42M,Ã¢â€šÂ¬93K,Right,3,3,5,High/ Low,Stocky,ST,10,"Jan 20, 2017",,2021,5'9,172lbs,79,79
+200104,H. Son,25,Korea Republic,84,85,Tottenham Hotspur,Ã¢â€šÂ¬37M,Ã¢â€šÂ¬125K,Right,3,5,4,High/ High,Lean,LM,7,"Aug 28, 2015",,2023,6'0,143lbs,78,85
+199482,A. Lopes,27,Portugal,84,86,Olympique Lyonnais,Ã¢â€šÂ¬25M,Ã¢â€šÂ¬72K,Left,2,2,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2011",,2020,6'0,179lbs,19,18
+198176,S. de Vrij,26,Netherlands,84,86,Inter,Ã¢â€šÂ¬31.5M,Ã¢â€šÂ¬88K,Right,3,4,2,Medium/ High,Normal,CB,14,"Jul 1, 2018",,2023,6'2,172lbs,49,25
+198009,M. Perin,25,Italy,84,89,Juventus,Ã¢â€šÂ¬29.5M,Ã¢â€šÂ¬105K,Right,2,3,1,Medium/ Medium,Lean,GK,22,"Jul 1, 2018",,2022,6'2,170lbs,11,11
+193082,J. Cuadrado,30,Colombia,84,84,Juventus,Ã¢â€šÂ¬29.5M,Ã¢â€šÂ¬150K,Right,3,3,5,High/ Medium,Lean,RAM,11,"Feb 2, 2015",,2020,5'10,159lbs,80,67
+192629,Iago Aspas,30,Spain,84,84,RC Celta,Ã¢â€šÂ¬30M,Ã¢â€šÂ¬45K,Left,2,3,3,High/ High,Lean,ST,17,"Jul 1, 2015",,2022,5'9,148lbs,80,88
+192563,B. Leno,26,Germany,84,87,Arsenal,Ã¢â€šÂ¬27M,Ã¢â€šÂ¬115K,Right,3,4,1,Medium/ Medium,Normal,GK,12,"Jul 1, 2018",,2023,6'3,183lbs,9,9
+191202,N. MatiÃ„â€¡,29,Serbia,84,84,Manchester United,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬165K,Left,3,3,3,Medium/ High,Lean,CDM,31,"Jul 31, 2017",,2020,6'4,187lbs,71,64
+190941,L. HrÃƒÂ¡deckÃƒÂ½,28,Finland,84,84,Bayer 04 Leverkusen,Ã¢â€šÂ¬22M,Ã¢â€šÂ¬74K,Right,2,3,1,Medium/ Medium,Lean,GK,1,"Jul 1, 2018",,2023,6'4,187lbs,11,11
+190584,Illarramendi,28,Spain,84,84,Real Sociedad,Ã¢â€šÂ¬31M,Ã¢â€šÂ¬51K,Right,2,3,4,Medium/ High,Normal,RDM,4,"Aug 26, 2015",,2023,5'10,165lbs,68,72
+188377,K. Walker,28,England,84,84,Manchester City,Ã¢â€šÂ¬24.5M,Ã¢â€šÂ¬165K,Right,3,2,2,High/ High,Normal,RB,2,"Jul 14, 2017",,2022,6'0,154lbs,81,51
+186942,I. GÃƒÂ¼ndoÃ„Å¸an,27,Germany,84,84,Manchester City,Ã¢â€šÂ¬32M,Ã¢â€šÂ¬175K,Right,3,4,4,High/ Medium,Normal,CM,21,"Jul 1, 2016",,2020,5'11,176lbs,74,73
+185020,JosÃƒÂ© CallejÃƒÂ³n,31,Spain,84,84,Napoli,Ã¢â€šÂ¬27.5M,Ã¢â€šÂ¬105K,Right,3,3,3,High/ High,Lean,RM,7,"Jul 11, 2013",,2020,5'10,161lbs,82,78
+183898,A. Di MarÃƒÂ­a,30,Argentina,84,84,Paris Saint-Germain,Ã¢â€šÂ¬29.5M,Ã¢â€šÂ¬125K,Left,4,2,5,High/ Medium,Lean,RM,11,"Aug 6, 2015",,2021,5'11,152lbs,83,72
+181783,M. MandÃ…Â¾ukiÃ„â€¡,32,Croatia,84,84,Juventus,Ã¢â€šÂ¬25M,Ã¢â€šÂ¬160K,Right,3,3,3,High/ High,Lean,ST,17,"Jul 1, 2015",,2020,6'3,187lbs,72,84
+180403,Willian,29,Brazil,84,84,Chelsea,Ã¢â€šÂ¬30.5M,Ã¢â€šÂ¬175K,Right,3,4,4,High/ High,Lean,RW,22,"Aug 28, 2013",,2020,5'9,172lbs,76,77
+178750,Sergio Asenjo,29,Spain,84,85,Villarreal CF,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬42K,Right,2,3,1,Medium/ Medium,Stocky,GK,1,"Jun 30, 2014",,2022,6'2,192lbs,24,14
+178562,E. Banega,30,Argentina,84,84,Sevilla FC,Ã¢â€šÂ¬29M,Ã¢â€šÂ¬31K,Right,3,4,4,Medium/ Medium,Normal,CDM,10,"Jul 3, 2017",,2020,5'9,157lbs,80,66
+177413,A. Witsel,29,Belgium,84,84,Borussia Dortmund,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬77K,Right,3,4,4,Medium/ Medium,Lean,LCM,6,"Aug 17, 2018",,2022,6'2,179lbs,69,71
+177388,D. Payet,31,France,84,84,Olympique de Marseille,Ã¢â€šÂ¬27.5M,Ã¢â€šÂ¬75K,Right,3,4,4,High/ Low,Normal,CAM,18,"Jan 30, 2017",,2021,5'9,170lbs,87,78
+176769,Jonas,34,Brazil,84,84,SL Benfica,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬25K,Right,3,5,3,High/ Medium,Lean,ST,10,"Sep 12, 2014",,2020,5'11,163lbs,70,88
+172879,Sokratis,30,Greece,84,84,Arsenal,Ã¢â€šÂ¬23M,Ã¢â€šÂ¬140K,Right,3,2,2,Medium/ High,Normal,RCB,19,"Jul 2, 2018",,2021,6'1,187lbs,47,44
+167628,S. Ruffier,31,France,84,84,AS Saint-Ãƒâ€°tienne,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬41K,Right,3,3,1,Medium/ Medium,Stocky,GK,16,"Jul 11, 2011",,2021,6'2,205lbs,11,11
+167397,Falcao,32,Colombia,84,84,AS Monaco,Ã¢â€šÂ¬25M,Ã¢â€šÂ¬115K,Right,3,4,3,High/ Medium,Normal,RS,9,"Jul 1, 2013",,2020,5'10,159lbs,55,86
+163587,K. Schmeichel,31,Denmark,84,84,Leicester City,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬78K,Right,2,3,1,Medium/ Medium,Stocky,GK,1,"Jun 1, 2011",,2023,6'2,196lbs,18,12
+157481,RaÃƒÂºl Albiol,32,Spain,84,84,Napoli,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬88K,Right,3,3,2,Low/ High,Lean,RCB,33,"Jul 21, 2013",,2021,6'3,181lbs,38,27
+143076,A. GÃƒÂ³mez,30,Argentina,84,84,Atalanta,Ã¢â€šÂ¬30M,Ã¢â€šÂ¬53K,Right,3,4,4,High/ Medium,Normal,LS,10,"Sep 2, 2014",,2022,5'5,150lbs,82,76
+137186,A. Barzagli,37,Italy,84,84,Juventus,Ã¢â€šÂ¬4.2M,Ã¢â€šÂ¬95K,Right,3,3,2,Low/ High,Normal,CB,15,"Jan 1, 2011",,2019,6'2,192lbs,40,21
+20775,Quaresma,34,Portugal,84,84,BeÃ…Å¸iktaÃ…Å¸ JK,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬80K,Right,3,4,5,High/ Low,Normal,RM,7,"Jul 22, 2015",,2020,5'9,148lbs,92,67
+9014,A. Robben,34,Netherlands,84,84,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬110K,Left,4,2,4,High/ Low,Normal,RM,10,"Aug 28, 2009",,2019,5'11,176lbs,80,85
+231443,O. DembÃƒÂ©lÃƒÂ©,21,France,83,92,FC Barcelona,Ã¢â€šÂ¬40M,Ã¢â€šÂ¬155K,Left,3,5,4,High/ Low,Lean,RW,11,"Aug 28, 2017",,2022,5'10,148lbs,78,78
+230666,Gabriel Jesus,21,Brazil,83,92,Manchester City,Ã¢â€šÂ¬41M,Ã¢â€šÂ¬130K,Right,2,3,4,High/ High,Normal,ST,33,"Aug 3, 2016",,2023,5'9,161lbs,66,84
+230481,Ronaldo Cabrais,26,Brazil,83,83,GrÃƒÂªmio,Ã¢â€šÂ¬28M,Ã¢â€šÂ¬51K,Right,1,4,4,High/ Medium,Normal,RW,7,"Jan 1, 2018",,2021,5'10,165lbs,83,74
+230375,JosuÃƒÂ© Chiamulera,26,Brazil,83,83,GrÃƒÂªmio,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬43K,Right,1,3,2,Medium/ Medium,Normal,LCB,4,"Jan 1, 2018",,2021,6'1,176lbs,40,38
+230294,Louri Beretta,26,Brazil,83,83,AtlÃƒÂ©tico Mineiro,Ã¢â€šÂ¬28.5M,Ã¢â€šÂ¬60K,Right,1,3,4,High/ Low,Normal,ST,9,"Jan 1, 2018",,2021,6'2,183lbs,56,85
+225850,P. Kimpembe,22,France,83,89,Paris Saint-Germain,Ã¢â€šÂ¬30.5M,Ã¢â€šÂ¬82K,Left,2,3,3,High/ High,Normal,LCB,3,"Jul 1, 2015",,2023,6'2,176lbs,62,31
+220971,N. KeÃƒÂ¯ta,23,Guinea,83,88,Liverpool,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬120K,Right,2,4,4,High/ Medium,Lean,CM,8,"Jul 1, 2018",,2023,5'8,141lbs,62,74
+219683,C. Tolisso,23,France,83,88,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬85K,Right,2,3,3,High/ Medium,Normal,CM,24,"Jul 1, 2017",,2022,5'11,179lbs,67,75
+213565,T. Lemar,22,France,83,89,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬35.5M,Ã¢â€šÂ¬64K,Left,3,2,4,High/ Medium,Lean,LM,8,"Jul 1, 2018",,2023,5'7,137lbs,83,75
+213345,K. Coman,22,France,83,87,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬85K,Right,2,3,5,Medium/ Low,Lean,LM,29,"Aug 30, 2015",,2023,5'10,157lbs,81,76
+213331,J. Tah,22,Germany,83,88,Bayer 04 Leverkusen,Ã¢â€šÂ¬29.5M,Ã¢â€šÂ¬67K,Right,2,4,2,Medium/ Medium,Stocky,CB,20,"Jul 16, 2015",,2023,6'5,214lbs,35,20
+212523,Anderson Talisca,24,Brazil,83,90,Guangzhou Evergrande Taobao FC,Ã¢â€šÂ¬36.5M,Ã¢â€šÂ¬18K,Left,2,4,4,High/ Medium,Normal,CAM,24,,SL Benfica,"Dec 31, 2018",6'3,176lbs,78,80
+212188,T. Werner,22,Germany,83,87,RB Leipzig,Ã¢â€šÂ¬34.5M,Ã¢â€šÂ¬70K,Right,3,4,3,High/ Medium,Normal,RW,9,"Jul 1, 2016",,2020,5'11,165lbs,69,87
+210008,A. Rabiot,23,France,83,87,Paris Saint-Germain,Ã¢â€šÂ¬33M,Ã¢â€šÂ¬91K,Left,2,3,3,High/ Medium,Lean,CM,25,"Jul 1, 2012",,2019,6'4,176lbs,70,69
+209658,L. Goretzka,23,Germany,83,88,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬34M,Ã¢â€šÂ¬85K,Right,3,4,3,High/ High,Lean,CM,14,"Jul 1, 2018",,2022,6'2,174lbs,75,72
+208808,Q. Promes,26,Netherlands,83,84,Sevilla FC,Ã¢â€šÂ¬30.5M,Ã¢â€šÂ¬28K,Right,2,4,5,High/ Low,Lean,RM,9,"Aug 31, 2018",,2023,5'9,159lbs,79,86
+208670,H. Ziyech,25,Morocco,83,86,Ajax,Ã¢â€šÂ¬32.5M,Ã¢â€šÂ¬28K,Left,3,2,4,High/ High,Lean,RAM,22,"Aug 30, 2016",,2021,5'11,143lbs,84,68
+208618,Lucas VÃƒÂ¡zquez,27,Spain,83,83,Real Madrid,Ã¢â€šÂ¬27M,Ã¢â€šÂ¬205K,Right,2,4,4,High/ High,Normal,RW,17,"Jul 2, 2015",,2021,5'8,154lbs,86,73
+208418,Y. Carrasco,24,Belgium,83,86,Dalian YiFang FC,Ã¢â€šÂ¬33M,Ã¢â€šÂ¬20K,Right,3,4,4,High/ Medium,Lean,LM,10,"Feb 26, 2018",,2021,5'11,161lbs,78,79
+208093,Gerard Moreno,26,Spain,83,85,Villarreal CF,Ã¢â€šÂ¬32M,Ã¢â€šÂ¬53K,Left,1,4,4,High/ Medium,Lean,LS,7,"Jul 2, 2018",,2023,5'11,170lbs,61,83
+207863,Felipe,29,Brazil,83,83,FC Porto,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬22K,Right,3,3,2,Medium/ High,Normal,RCB,28,"Jul 1, 2016",,2021,6'3,190lbs,45,39
+207410,M. KovaÃ„ÂiÃ„â€¡,24,Croatia,83,89,Chelsea,Ã¢â€šÂ¬35M,Ã¢â€šÂ¬165K,Right,3,4,4,High/ High,Normal,LCM,17,,Real Madrid,"Jun 30, 2019",5'9,172lbs,73,62
+206585,Kepa,23,Spain,83,91,Chelsea,Ã¢â€šÂ¬28.5M,Ã¢â€šÂ¬84K,Right,1,4,1,Medium/ Medium,Lean,GK,13,"Aug 8, 2018",,2025,6'1,187lbs,25,11
+206545,Manu Trigueros,26,Spain,83,84,Villarreal CF,Ã¢â€šÂ¬30M,Ã¢â€šÂ¬49K,Right,2,4,4,Medium/ Medium,Lean,RCM,14,"Jul 1, 2011",,2022,5'10,165lbs,72,71
+206113,S. Gnabry,22,Germany,83,88,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬34.5M,Ã¢â€šÂ¬85K,Right,2,4,4,High/ Medium,Normal,ST,6,"Jul 1, 2017",,2020,5'9,165lbs,74,81
+204935,J. Pickford,24,England,83,88,Everton,Ã¢â€šÂ¬25M,Ã¢â€šÂ¬78K,Left,1,4,1,Medium/ Medium,Normal,GK,1,"Jun 15, 2017",,2024,6'1,170lbs,17,19
+204639,S. SaviÃ„â€¡,27,Montenegro,83,86,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬67K,Right,2,3,2,Medium/ High,Lean,CB,15,"Jul 20, 2015",,2020,6'2,174lbs,35,34
+203574,J. Stones,24,England,83,87,Manchester City,Ã¢â€šÂ¬28.5M,Ã¢â€šÂ¬125K,Right,2,4,3,High/ Medium,Lean,RCB,5,"Aug 9, 2016",,2022,6'2,154lbs,62,29
+202651,Suso,24,Spain,83,86,Milan,Ã¢â€šÂ¬33M,Ã¢â€šÂ¬115K,Left,3,3,4,High/ Medium,Lean,RW,11,"Jan 17, 2015",,2022,5'9,154lbs,84,70
+202166,J. Draxler,24,Germany,83,86,Paris Saint-Germain,Ã¢â€šÂ¬32.5M,Ã¢â€šÂ¬91K,Right,3,5,4,Medium/ Medium,Lean,CM,7,"Jan 3, 2017",,2021,6'2,170lbs,83,78
+201995,Felipe Anderson,25,Brazil,83,85,West Ham United,Ã¢â€šÂ¬31.5M,Ã¢â€šÂ¬110K,Right,3,4,4,High/ Medium,Normal,LM,8,"Jul 15, 2018",,2022,5'9,154lbs,79,71
+200949,Lucas Moura,25,Brazil,83,84,Tottenham Hotspur,Ã¢â€šÂ¬31M,Ã¢â€šÂ¬115K,Right,3,3,4,High/ Medium,Normal,RM,27,"Jan 31, 2018",,2023,5'9,154lbs,75,78
+200888,Danilo Pereira,26,Portugal,83,86,FC Porto,Ã¢â€šÂ¬27M,Ã¢â€šÂ¬21K,Right,3,3,3,Medium/ High,Normal,CDM,22,"Jul 2, 2015",,2022,6'2,183lbs,50,61
+200724,Nacho FernÃƒÂ¡ndez,28,Spain,83,85,Real Madrid,Ã¢â€šÂ¬24.5M,Ã¢â€šÂ¬180K,Right,2,4,2,Medium/ High,Normal,CB,12,"Aug 1, 2010",,2021,5'11,168lbs,70,32
+200316,T. Horn,25,Germany,83,87,1. FC KÃƒÂ¶ln,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬25K,Left,2,3,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2011",,2023,6'4,198lbs,19,13
+199914,Allan,27,Brazil,83,83,Napoli,Ã¢â€šÂ¬26.5M,Ã¢â€šÂ¬87K,Right,2,3,4,Medium/ High,Normal,RCM,5,"Jul 22, 2015",,2023,5'9,163lbs,70,72
+199845,F. Acerbi,30,Italy,83,83,Lazio,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬64K,Left,2,3,3,Medium/ Medium,Normal,CB,13,"Jul 11, 2018",,2023,6'4,194lbs,25,37
+199564,Sergi Roberto,26,Spain,83,86,FC Barcelona,Ã¢â€šÂ¬26.5M,Ã¢â€šÂ¬170K,Right,3,3,4,High/ High,Normal,RB,20,"Jul 1, 2013",,2022,5'10,150lbs,85,63
+198329,Rodrigo,27,Spain,83,84,Valencia CF,Ã¢â€šÂ¬30.5M,Ã¢â€šÂ¬57K,Left,2,3,4,High/ Medium,Lean,ST,9,"Dec 3, 2014",,2022,6'0,170lbs,72,78
+197965,Pizzi,28,Portugal,83,83,SL Benfica,Ã¢â€šÂ¬25.5M,Ã¢â€šÂ¬22K,Right,3,4,3,High/ Medium,Lean,LCM,21,"Jul 30, 2013",,2022,5'10,159lbs,79,76
+195365,K. Kampl,27,Slovenia,83,83,RB Leipzig,Ã¢â€šÂ¬26.5M,Ã¢â€šÂ¬74K,Right,2,4,3,High/ High,Lean,LCM,44,"Aug 31, 2017",,2021,5'10,148lbs,72,63
+194404,Neto,28,Brazil,83,84,Valencia CF,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬41K,Right,2,2,1,Medium/ Medium,Lean,GK,13,"Jul 7, 2017",,2021,6'3,185lbs,11,15
+193698,O. Baumann,28,Germany,83,84,TSG 1899 Hoffenheim,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬42K,Right,2,1,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2014",,2021,6'2,181lbs,14,11
+193474,I. Gueye,28,Senegal,83,83,Everton,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬125K,Right,2,3,3,Medium/ High,Lean,RDM,17,"Aug 3, 2016",,2022,5'9,146lbs,60,50
+192883,H. Mkhitaryan,29,Armenia,83,83,Arsenal,Ã¢â€šÂ¬25.5M,Ã¢â€šÂ¬145K,Right,3,5,4,Medium/ Medium,Normal,RM,7,"Jan 22, 2018",,2021,5'10,165lbs,77,74
+192638,Marcos Alonso,27,Spain,83,84,Chelsea,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬130K,Left,2,3,3,High/ Low,Lean,LB,3,"Aug 31, 2016",,2023,6'2,192lbs,85,68
+192593,D. SubaÃ…Â¡iÃ„â€¡,33,Croatia,83,83,AS Monaco,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬70K,Right,3,2,1,Medium/ Medium,Normal,GK,1,"Jan 24, 2012",,2020,6'3,185lbs,11,10
+190547,K. Glik,30,Poland,83,83,AS Monaco,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬86K,Right,3,2,2,Low/ Medium,Normal,RCB,15,"Jul 6, 2016",,2021,6'3,176lbs,29,27
+189712,K. Strootman,28,Netherlands,83,83,Olympique de Marseille,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬66K,Left,3,3,3,Medium/ High,Normal,CDM,16,"Aug 28, 2018",,2023,6'1,176lbs,74,68
+189068,B. Dost,29,Netherlands,83,83,Sporting CP,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬26K,Right,3,3,2,Medium/ Medium,Lean,ST,28,"Aug 28, 2016",,2021,6'5,196lbs,38,87
+188152,Oscar,26,Brazil,83,84,Shanghai SIPG FC,Ã¢â€šÂ¬30.5M,Ã¢â€šÂ¬29K,Right,3,3,4,Medium/ Medium,Lean,LCM,8,"Jan 1, 2017",,2020,5'10,146lbs,74,76
+186627,M. Balotelli,27,Italy,83,83,OGC Nice,Ã¢â€šÂ¬27.5M,Ã¢â€šÂ¬55K,Right,4,4,4,Medium/ Low,Normal,LS,9,"Aug 31, 2016",,2019,6'2,194lbs,68,85
+185221,Luiz Gustavo,30,Brazil,83,83,Olympique de Marseille,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬63K,Left,3,3,3,Medium/ High,Lean,LCB,19,"Jul 4, 2017",,2021,6'2,172lbs,63,48
+184942,Giuliano,28,Brazil,83,83,Al Nassr,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬64K,Right,2,3,4,High/ Medium,Stocky,CAM,77,"Aug 20, 2018",,2021,5'8,150lbs,77,79
+179944,David Luiz,31,Brazil,83,83,Chelsea,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬130K,Right,4,3,3,Medium/ Medium,Normal,LCB,30,"Aug 31, 2016",,2019,6'2,190lbs,68,55
+179783,R. FÃƒÂ¤hrmann,29,Germany,83,84,FC Schalke 04,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬38K,Right,2,1,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2011",,2022,6'6,216lbs,14,11
+178088,Juan Mata,30,Spain,83,83,Manchester United,Ã¢â€šÂ¬24.5M,Ã¢â€šÂ¬160K,Left,3,3,4,Medium/ Medium,Lean,RM,8,"Jan 25, 2014",,2019,5'7,139lbs,83,78
+178086,AdÃƒÂ¡n,31,Spain,83,83,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬55K,Left,2,2,1,Medium/ Medium,Normal,GK,1,"Jul 10, 2018",,2020,6'3,203lbs,12,11
+178005,Rui PatrÃƒÂ­cio,30,Portugal,83,83,Wolverhampton Wanderers,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬74K,Left,3,2,1,Medium/ Medium,Normal,GK,1,"Jun 18, 2018",,2022,6'3,185lbs,12,12
+177683,Y. Sommer,29,Switzerland,83,84,Borussia MÃƒÂ¶nchengladbach,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬35K,Right,3,4,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2014",,2021,6'0,174lbs,13,13
+177610,Javi MartÃƒÂ­nez,29,Spain,83,83,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬94K,Right,3,3,2,Medium/ Medium,Normal,CDM,8,"Aug 29, 2012",,2021,6'4,190lbs,60,43
+177457,L. Bender,29,Germany,83,83,Bayer 04 Leverkusen,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬82K,Right,3,3,2,High/ High,Lean,RB,8,"Aug 18, 2009",,2021,6'1,179lbs,69,59
+176266,Lucas Leiva,31,Brazil,83,83,Lazio,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬64K,Right,3,3,3,Medium/ High,Normal,LDM,6,"Jul 18, 2017",,2020,5'10,172lbs,63,62
+163705,S. Mandanda,33,France,83,83,Olympique de Marseille,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬51K,Right,3,3,1,Medium/ Medium,Normal,GK,16,"Jul 11, 2017",,2020,6'1,181lbs,14,13
+162895,Cesc FÃƒÂ bregas,31,Spain,83,83,Chelsea,Ã¢â€šÂ¬22M,Ã¢â€šÂ¬140K,Right,4,3,3,High/ Medium,Normal,CM,4,"Jul 1, 2014",,2019,5'10,170lbs,85,72
+162240,M. DembÃƒÂ©lÃƒÂ©,30,Belgium,83,83,Tottenham Hotspur,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬120K,Left,3,2,4,Medium/ Medium,Normal,CM,19,"Aug 1, 2012",,2019,6'1,181lbs,65,66
+156616,F. RibÃƒÂ©ry,35,France,83,83,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬72K,Right,4,4,5,Medium/ Medium,Normal,LM,7,"Jul 1, 2007",,2019,5'7,159lbs,80,74
+104389,R. Jarstein,33,Norway,83,83,Hertha BSC,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬33K,Right,2,4,1,Medium/ Medium,Normal,GK,1,"Jan 1, 2014",,2021,6'3,181lbs,18,13
+53302,D. De Rossi,34,Italy,83,83,Roma,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬80K,Right,3,4,2,Medium/ High,Normal,RDM,16,"Jul 1, 2002",,2019,6'0,183lbs,57,50
+24630,Pepe Reina,35,Spain,83,83,Milan,Ã¢â€šÂ¬6M,Ã¢â€šÂ¬56K,Right,3,3,1,Medium/ Medium,Normal,GK,25,"Jul 2, 2018",,2021,6'2,203lbs,11,14
+236583,J. Pavlenka,26,Czech Republic,82,85,SV Werder Bremen,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬30K,Right,1,3,1,Medium/ Medium,Lean,GK,1,"Jul 1, 2017",,2021,6'5,179lbs,11,16
+235243,M. de Ligt,18,Netherlands,82,91,Ajax,Ã¢â€šÂ¬27M,Ã¢â€šÂ¬11K,Right,2,4,2,Medium/ Medium,Normal,RCB,3,"Oct 24, 2016",,2021,6'2,196lbs,57,53
+231866,Rodri,22,Spain,82,87,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬29M,Ã¢â€šÂ¬59K,Right,1,3,4,Medium/ High,Lean,CM,16,"Jul 1, 2018",,2023,6'3,181lbs,63,64
+230658,Arthur,21,Brazil,82,90,FC Barcelona,Ã¢â€šÂ¬32.5M,Ã¢â€šÂ¬125K,Right,1,3,4,Medium/ Medium,Normal,LCM,8,"Jul 9, 2018",,2024,5'7,161lbs,70,72
+230621,G. Donnarumma,19,Italy,82,93,Milan,Ã¢â€šÂ¬29M,Ã¢â€šÂ¬23K,Right,3,3,1,Medium/ Medium,Normal,GK,22,"Jul 1, 2015",,2021,6'5,198lbs,12,12
+230258,Rosberto Dourado,30,Brazil,82,82,AtlÃƒÂ©tico Mineiro,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬46K,Right,1,4,2,High/ Medium,Lean,RCM,13,"Jan 1, 2018",,2018,5'9,154lbs,61,53
+230225,Juiano Mestres,34,Brazil,82,82,Cruzeiro,Ã¢â€šÂ¬6.5M,Ã¢â€šÂ¬39K,Right,1,3,2,High/ Medium,Normal,RCB,3,"Jan 1, 2018",,2021,5'11,181lbs,40,56
+230168,Raphaelito Anjos,30,Brazil,82,82,GrÃƒÂªmio,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬32K,Right,1,2,1,Medium/ Medium,Normal,GK,1,"Jan 1, 2018",,2021,6'3,187lbs,10,8
+227055,Gelson Martins,23,Portugal,82,87,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬29.5M,Ã¢â€šÂ¬59K,Right,3,3,5,High/ Medium,Lean,RM,18,"Jul 25, 2018",,2023,5'8,159lbs,81,66
+224411,GonÃƒÂ§alo Guedes,21,Portugal,82,86,Valencia CF,Ã¢â€šÂ¬29M,Ã¢â€šÂ¬36K,Right,1,3,4,High/ Low,Normal,LM,17,"Aug 29, 2018",,2024,5'10,150lbs,76,75
+223959,L. Torreira,22,Uruguay,82,87,Arsenal,Ã¢â€šÂ¬25M,Ã¢â€šÂ¬98K,Right,2,3,3,Medium/ High,Normal,LCM,14,"Jul 12, 2018",,2023,5'6,141lbs,74,50
+222737,Malcom,21,Brazil,82,89,FC Barcelona,Ã¢â€šÂ¬31.5M,Ã¢â€šÂ¬140K,Left,2,4,4,Medium/ Medium,Normal,RW,14,"Jul 24, 2018",,2023,5'8,163lbs,79,75
+221087,Pau LÃƒÂ³pez,23,Spain,82,87,Real Betis,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬21K,Left,1,3,1,Medium/ Medium,Lean,GK,23,"Jul 4, 2018",,2023,6'2,170lbs,24,19
+220814,L. HernÃƒÂ¡ndez,22,France,82,88,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬25.5M,Ã¢â€šÂ¬53K,Left,1,3,3,Medium/ High,Normal,LB,21,"Jul 1, 2015",,2024,6'0,168lbs,78,42
+220440,C. Lenglet,23,France,82,88,FC Barcelona,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬135K,Left,1,4,2,Medium/ High,Lean,LCB,15,"Jul 12, 2018",,2023,6'1,179lbs,36,23
+216354,A. KramariÃ„â€¡,27,Croatia,82,83,TSG 1899 Hoffenheim,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬54K,Right,2,4,4,Medium/ Medium,Normal,LCM,27,"Jan 16, 2015",,2022,5'10,161lbs,75,86
+216267,A. Robertson,24,Scotland,82,87,Liverpool,Ã¢â€šÂ¬24.5M,Ã¢â€šÂ¬98K,Left,1,2,3,High/ High,Lean,LB,3,"Jul 21, 2017",,2021,5'10,141lbs,86,57
+216194,Dani GarcÃƒÂ­a,28,Spain,82,83,Athletic Club de Bilbao,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬33K,Right,2,3,3,Medium/ High,Stocky,RCM,16,"Jul 2, 2018",,2022,5'11,176lbs,55,51
+212404,F. Bernardeschi,24,Italy,82,87,Juventus,Ã¢â€šÂ¬29.5M,Ã¢â€šÂ¬110K,Left,2,3,5,High/ High,Lean,RM,20,"Jul 24, 2017",,2022,6'1,170lbs,82,70
+212194,J. Brandt,22,Germany,82,88,Bayer 04 Leverkusen,Ã¢â€šÂ¬30.5M,Ã¢â€šÂ¬68K,Right,2,4,4,Medium/ Medium,Lean,LM,10,"Jan 1, 2014",,2021,6'1,185lbs,77,78
+211320,D. Rugani,23,Italy,82,86,Juventus,Ã¢â€šÂ¬24.5M,Ã¢â€šÂ¬95K,Right,2,3,2,Low/ Medium,Lean,CB,15,"Feb 4, 2015",,2021,6'3,185lbs,40,33
+210617,Samu Castillejo,23,Spain,82,86,Milan,Ã¢â€šÂ¬29M,Ã¢â€šÂ¬94K,Left,2,2,4,Medium/ High,Lean,RM,7,"Aug 17, 2018",,2023,6'0,148lbs,81,77
+210514,JoÃƒÂ£o Cancelo,24,Portugal,82,88,Juventus,Ã¢â€šÂ¬25.5M,Ã¢â€šÂ¬95K,Right,2,3,4,High/ Medium,Lean,RB,2,"Jul 1, 2018",,2023,6'0,163lbs,85,58
+210413,A. Romagnoli,23,Italy,82,89,Milan,Ã¢â€šÂ¬26.5M,Ã¢â€šÂ¬84K,Left,2,3,2,Medium/ High,Normal,LCB,13,"Aug 11, 2015",,2022,6'2,172lbs,36,30
+209989,T. Partey,25,Ghana,82,88,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬25.5M,Ã¢â€šÂ¬59K,Right,1,3,3,High/ High,Lean,CDM,5,"Jul 1, 2015",,2023,6'1,170lbs,58,63
+209297,Fred,25,Brazil,82,84,Manchester United,Ã¢â€šÂ¬26.5M,Ã¢â€šÂ¬140K,Left,1,4,4,High/ High,Lean,CM,17,"Jun 21, 2018",,2023,5'7,141lbs,67,74
+208830,J. Vardy,31,England,82,82,Leicester City,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬96K,Right,3,3,3,High/ High,Lean,ST,9,"May 1, 2012",,2022,5'10,163lbs,64,85
+208596,A. Belotti,24,Italy,82,87,Torino,Ã¢â€šÂ¬30M,Ã¢â€šÂ¬58K,Right,3,5,3,High/ High,Normal,LS,9,"Aug 17, 2015",,2021,5'11,159lbs,42,88
+208448,E. Forsberg,26,Sweden,82,83,RB Leipzig,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬67K,Right,2,4,4,Medium/ Medium,Normal,LM,10,"Jan 7, 2015",,2022,5'10,163lbs,84,70
+207494,J. Lingard,25,England,82,83,Manchester United,Ã¢â€šÂ¬26.5M,Ã¢â€šÂ¬140K,Right,2,3,4,High/ High,Lean,CAM,7,"Jul 1, 2010",,2021,5'9,137lbs,74,78
+207471,F. VÃƒÂ¡zquez,29,Argentina,82,82,Sevilla FC,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬27K,Left,2,3,4,Medium/ High,Normal,LCM,22,"Jul 16, 2016",,2021,6'1,181lbs,73,74
+205678,E. ViÃ…Â¡Ã„â€¡a,28,Bosnia Herzegovina,82,82,Medipol BaÃ…Å¸akÃ…Å¸ehir FK,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬40K,Right,2,4,4,High/ Medium,Lean,RM,7,"Aug 16, 2011",,2021,5'8,139lbs,80,80
+205452,A. RÃƒÂ¼diger,25,Germany,82,84,Chelsea,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬110K,Right,2,3,2,Medium/ High,Lean,CB,16,"Jul 9, 2017",,2022,6'3,187lbs,68,27
+203551,A. Florenzi,27,Italy,82,83,Roma,Ã¢â€šÂ¬20.5M,Ã¢â€šÂ¬73K,Right,3,3,4,High/ Medium,Lean,RB,16,"Jul 1, 2010",,2023,5'8,148lbs,77,70
+203263,H. Maguire,25,England,82,85,Leicester City,Ã¢â€šÂ¬23.5M,Ã¢â€šÂ¬77K,Right,1,3,2,High/ High,Stocky,LCB,6,"Jun 15, 2017",,2023,6'4,220lbs,44,43
+202371,T. Meunier,26,Belgium,82,83,Paris Saint-Germain,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬87K,Right,2,4,3,High/ High,Normal,RM,15,"Jul 3, 2016",,2020,6'3,198lbs,83,76
+201956,S. SanÃƒÂ©,27,Senegal,82,82,FC Schalke 04,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬41K,Right,2,3,3,Medium/ High,Lean,CB,26,"Jul 1, 2018",,2022,6'5,187lbs,57,38
+201455,G. Kondogbia,25,Central African Rep.,82,85,Valencia CF,Ã¢â€šÂ¬27.5M,Ã¢â€šÂ¬46K,Left,2,2,4,High/ Medium,Lean,CM,6,"Jul 2, 2018",,2022,6'2,176lbs,65,69
+201400,Rafinha,25,Brazil,82,87,FC Barcelona,Ã¢â€šÂ¬29.5M,Ã¢â€šÂ¬165K,Left,2,4,4,High/ High,Normal,CAM,12,"Jul 1, 2013",,2020,5'9,157lbs,72,73
+201305,Gabriel Paulista,27,Brazil,82,83,Valencia CF,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬44K,Right,2,2,2,Low/ High,Lean,LCB,5,"Aug 18, 2017",,2022,6'2,174lbs,67,42
+201153,Morata,25,Spain,82,85,Chelsea,Ã¢â€šÂ¬28.5M,Ã¢â€šÂ¬135K,Right,3,4,3,High/ High,Normal,ST,7,"Jul 21, 2017",,2022,6'2,187lbs,73,80
+199987,J. Cillessen,29,Netherlands,82,84,FC Barcelona,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬135K,Right,3,3,1,Medium/ Medium,Normal,GK,1,"Aug 25, 2016",,2021,6'1,183lbs,17,10
+199451,W. Ben Yedder,27,France,82,82,Sevilla FC,Ã¢â€šÂ¬23.5M,Ã¢â€šÂ¬28K,Right,2,5,4,High/ High,Normal,RS,9,"Jul 30, 2016",,2021,5'7,150lbs,74,84
+198951,C. Bakambu,27,DR Congo,82,83,Beijing Sinobo Guoan FC,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬33K,Right,2,4,3,Medium/ Medium,Normal,ST,17,"Jan 17, 2018",,2021,6'0,161lbs,74,84
+198950,Pablo Sarabia,26,Spain,82,83,Sevilla FC,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬26K,Left,2,4,4,High/ Medium,Normal,RCM,17,"Jul 1, 2016",,2020,5'9,154lbs,86,78
+198717,W. Zaha,25,Ivory Coast,82,85,Crystal Palace,Ã¢â€šÂ¬28.5M,Ã¢â€šÂ¬78K,Right,2,3,5,High/ Low,Lean,LS,11,"Feb 2, 2015",,2023,5'11,146lbs,81,77
+198706,Luis Alberto,25,Spain,82,85,Lazio,Ã¢â€šÂ¬28.5M,Ã¢â€šÂ¬67K,Right,2,3,4,High/ Medium,Lean,CF,10,"Aug 31, 2016",,2022,6'0,163lbs,76,80
+198164,Jonathan Viera,28,Spain,82,82,Beijing Sinobo Guoan FC,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬31K,Right,2,4,4,High/ Low,Normal,LF,23,"Feb 19, 2018",,2020,5'7,141lbs,75,78
+198141,Bartra,27,Spain,82,83,Real Betis,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬32K,Right,3,3,3,High/ Medium,Lean,CB,5,"Jan 30, 2018",,2023,6'0,161lbs,55,55
+197655,S. Coates,27,Uruguay,82,83,Sporting CP,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬19K,Right,3,3,2,Medium/ Medium,Normal,RCB,4,"Jan 31, 2017",,2022,6'5,203lbs,17,42
+195093,Willian JosÃƒÂ©,26,Brazil,82,83,Real Sociedad,Ã¢â€šÂ¬26.5M,Ã¢â€šÂ¬44K,Right,2,4,4,Medium/ Low,Normal,ST,12,"Jul 31, 2016",,2024,6'2,205lbs,54,84
+193525,MÃƒÂ¡rio Fernandes,27,Russia,82,82,PFC CSKA Moscow,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬1K,Right,2,3,3,High/ High,Lean,RB,6,"Jul 1, 2012",,2022,6'2,176lbs,76,56
+193469,VÃƒÂ­ctor Ruiz,29,Spain,82,83,Villarreal CF,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬43K,Left,2,2,2,Medium/ Medium,Normal,LCB,6,"Jul 1, 2015",,2019,6'1,172lbs,54,37
+193283,T. Delaney,26,Denmark,82,83,Borussia Dortmund,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬61K,Left,2,4,3,High/ High,Normal,LCM,8,"Jul 1, 2018",,2022,6'0,174lbs,67,72
+192984,K. Casteels,26,Belgium,82,85,VfL Wolfsburg,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬46K,Left,2,2,1,Medium/ Medium,Normal,GK,13,"Jan 21, 2015",,2021,6'6,190lbs,15,15
+192318,M. GÃƒÂ¶tze,26,Germany,82,85,Borussia Dortmund,Ã¢â€šÂ¬27M,Ã¢â€šÂ¬67K,Right,4,4,4,Medium/ Medium,Normal,CM,10,"Aug 1, 2016",,2020,5'9,165lbs,78,75
+192227,S. Mustafi,26,Germany,82,84,Arsenal,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬115K,Right,3,3,2,Medium/ High,Normal,RCB,20,"Aug 30, 2016",,2021,6'0,181lbs,53,58
+191180,J. Pastore,29,Argentina,82,82,Roma,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬84K,Right,3,4,4,High/ Medium,Lean,CAM,27,"Jul 1, 2018",,2022,6'2,172lbs,77,73
+189505,Pedro,30,Spain,82,82,Chelsea,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬140K,Right,3,5,4,High/ High,Lean,RW,11,"Aug 20, 2015",,2020,5'7,143lbs,78,78
+189125,G. Bonaventura,28,Italy,82,82,Milan,Ã¢â€šÂ¬22M,Ã¢â€šÂ¬115K,Right,3,3,4,High/ Medium,Lean,CM,5,"Sep 1, 2014",,2020,5'11,165lbs,82,70
+189117,R. BÃƒÂ¼rki,27,Switzerland,82,85,Borussia Dortmund,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬50K,Right,3,2,1,Medium/ Medium,Normal,GK,21,"Jul 1, 2015",,2021,6'2,187lbs,15,8
+188803,Taison,30,Brazil,82,82,Shakhtar Donetsk,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬1K,Right,2,3,4,Medium/ Medium,Lean,LM,7,"Jan 11, 2013",,2021,5'8,141lbs,73,76
+187936,S. Nzonzi,29,France,82,82,Roma,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬77K,Right,2,3,2,Medium/ Medium,Lean,CDM,15,"Aug 14, 2018",,2022,6'5,165lbs,59,64
+187754,Marlos,30,Ukraine,82,82,Shakhtar Donetsk,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬1K,Left,2,4,5,Medium/ Medium,Normal,RM,11,"Jul 4, 2014",,2019,5'9,152lbs,76,79
+186561,A. Ramsey,27,Wales,82,83,Arsenal,Ã¢â€šÂ¬25M,Ã¢â€šÂ¬130K,Right,3,3,3,High/ High,Lean,CAM,10,"Jun 13, 2008",,2019,6'0,168lbs,75,74
+186345,K. Trippier,27,England,82,82,Tottenham Hotspur,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬99K,Right,2,4,3,High/ High,Normal,RB,12,"Jun 19, 2015",,2022,5'10,159lbs,91,48
+185103,A. Kolarov,32,Serbia,82,82,Roma,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬73K,Left,2,3,3,High/ Medium,Normal,LB,11,"Jul 22, 2017",,2020,6'2,183lbs,91,55
+184484,G. SigurÃƒÂ°sson,28,Iceland,82,82,Everton,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬125K,Right,3,5,3,High/ High,Normal,CAM,10,"Aug 16, 2017",,2022,6'1,181lbs,86,77
+184431,S. Giovinco,31,Italy,82,82,Toronto FC,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬15K,Right,2,4,4,High/ Medium,Normal,CF,21,"Feb 3, 2015",,2019,5'4,134lbs,72,80
+184200,M. ArnautoviÃ„â€¡,29,Austria,82,82,West Ham United,Ã¢â€šÂ¬22M,Ã¢â€šÂ¬120K,Right,3,4,4,High/ Medium,Normal,LS,7,"Jul 23, 2017",,2022,6'4,183lbs,80,78
+184144,N. GaitÃƒÂ¡n,30,Argentina,82,82,Dalian YiFang FC,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬22K,Left,3,2,4,Medium/ Medium,Lean,CAM,9,"Feb 27, 2018",,2021,5'8,146lbs,80,71
+183711,J. Henderson,28,England,82,82,Liverpool,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬125K,Right,2,3,3,Medium/ High,Normal,RCM,8,"Jun 9, 2011",,2020,6'0,176lbs,81,67
+183574,M. Kruse,30,Germany,82,82,SV Werder Bremen,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬45K,Left,2,4,4,High/ Medium,Normal,ST,10,"Aug 2, 2016",,2019,5'11,168lbs,81,83
+183498,M. Parolo,33,Italy,82,82,Lazio,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬59K,Right,2,4,3,High/ High,Lean,RDM,16,"Jul 1, 2014",,2020,6'0,165lbs,70,70
+183376,L. Fejsa,29,Serbia,82,82,SL Benfica,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬18K,Right,2,3,2,Low/ High,Normal,CDM,5,"Aug 24, 2013",,2021,6'0,176lbs,50,49
+183280,A. Rami,32,France,82,82,Olympique de Marseille,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬57K,Right,3,3,2,High/ High,Normal,RCB,23,"Jul 13, 2017",,2021,6'3,198lbs,36,45
+181786,V. Ã„â€ orluka,32,Croatia,82,82,Lokomotiv Moscow,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬1K,Right,3,3,3,High/ Medium,Normal,LCB,14,"Jun 27, 2012",,2020,6'4,185lbs,68,44
+181291,G. Wijnaldum,27,Netherlands,82,82,Liverpool,Ã¢â€šÂ¬23M,Ã¢â€šÂ¬130K,Right,3,3,4,High/ High,Lean,CAM,8,"Jul 22, 2016",,2021,5'9,152lbs,67,70
+179847,F. Fazio,31,Argentina,82,82,Roma,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬73K,Right,3,2,2,Medium/ Medium,Normal,LCB,20,"Jul 15, 2017",,2020,6'5,187lbs,44,41
+178509,O. Giroud,31,France,82,82,Chelsea,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬140K,Left,3,3,3,Medium/ Medium,Normal,ST,9,"Jan 31, 2018",,2019,6'4,203lbs,64,83
+173521,Marcano,31,Spain,82,82,Roma,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬73K,Left,3,3,2,Medium/ Medium,Lean,CB,15,"Jul 1, 2018",,2021,6'2,170lbs,49,43
+171897,A. Guardado,31,Mexico,82,82,Real Betis,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬35K,Left,3,2,4,Medium/ Medium,Lean,CM,18,"Jul 7, 2017",,2020,5'7,148lbs,73,60
+170481,E. Garay,31,Argentina,82,82,Valencia CF,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬44K,Right,3,3,2,Medium/ Medium,Normal,RCB,24,"Aug 31, 2016",,2020,6'2,198lbs,62,58
+168530,Jardel,32,Brazil,82,82,SL Benfica,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬17K,Right,2,2,2,Medium/ High,Normal,LCB,33,"Jan 1, 2011",,2021,6'4,192lbs,46,38
+168435,S. Sirigu,31,Italy,82,82,Torino,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬45K,Right,3,2,1,Medium/ Medium,Normal,GK,1,"Jun 27, 2017",,2022,6'4,176lbs,13,10
+168354,E. Viviano,32,Italy,82,82,Sporting CP,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬15K,Left,2,2,1,Medium/ Medium,Stocky,GK,1,"Jul 1, 2018",,2020,6'5,198lbs,12,17
+165229,L. Koscielny,32,France,82,82,Arsenal,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬115K,Right,3,3,2,Medium/ High,Lean,CB,6,"Jul 7, 2010",,2020,6'1,165lbs,52,32
+163489,A. Consigli,31,Italy,82,82,Sassuolo,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬52K,Right,2,3,1,Medium/ Medium,Lean,GK,47,"Sep 1, 2014",,2022,6'2,181lbs,10,10
+158963,L. Biglia,32,Argentina,82,82,Milan,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬98K,Right,3,4,3,Medium/ High,Normal,CDM,21,"Jul 17, 2017",,2020,5'10,139lbs,74,50
+146530,Dani Alves,35,Brazil,82,82,Paris Saint-Germain,Ã¢â€šÂ¬4.8M,Ã¢â€šÂ¬62K,Right,4,3,4,High/ Low,Normal,RB,13,"Jul 12, 2017",,2019,5'8,150lbs,85,61
+113422,David Villa,36,Spain,82,82,New York City FC,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬12K,Right,3,5,4,High/ Low,Normal,ST,7,"Jul 1, 2014",,2018,5'9,152lbs,71,86
+106231,Aduriz,37,Spain,82,82,Athletic Club de Bilbao,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬29K,Right,3,3,3,High/ Medium,Normal,ST,20,"Jul 1, 2012",,2019,6'0,172lbs,54,83
+48940,P. Ã„Å’ech,36,Czech Republic,82,82,Arsenal,Ã¢â€šÂ¬3M,Ã¢â€šÂ¬60K,Left,4,3,1,Medium/ Medium,Normal,GK,1,"Jun 29, 2015",,2019,6'5,198lbs,19,12
+5479,Casillas,37,Spain,82,82,FC Porto,Ã¢â€šÂ¬1.5M,Ã¢â€šÂ¬10K,Left,4,2,1,Medium/ Medium,Normal,GK,1,"Jul 12, 2015",,2019,6'1,185lbs,13,12
+231677,M. Rashford,20,England,81,89,Manchester United,Ã¢â€šÂ¬27M,Ã¢â€šÂ¬110K,Right,2,4,4,High/ Medium,Lean,LW,11,"Jul 1, 2014",,2020,6'1,154lbs,75,78
+230271,Laure Santeiro,30,Brazil,81,81,Fluminense,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬40K,Left,1,5,4,Medium/ Medium,Lean,CAM,8,"Jan 1, 2018",,2021,5'7,139lbs,73,72
+229906,L. Bailey,20,Jamaica,81,89,Bayer 04 Leverkusen,Ã¢â€šÂ¬26.5M,Ã¢â€šÂ¬54K,Left,1,4,4,High/ Medium,Normal,LM,9,"Jan 31, 2017",,2023,5'10,174lbs,77,75
+229237,M. Akanji,22,Switzerland,81,87,Borussia Dortmund,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬49K,Right,2,3,2,Medium/ High,Normal,LCB,5,"Jan 15, 2018",,2022,6'2,187lbs,51,36
+228702,F. de Jong,21,Netherlands,81,89,Ajax,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬19K,Right,1,3,4,Medium/ Medium,Lean,LDM,7,"Aug 25, 2015",,2022,5'11,154lbs,75,52
+227928,NÃƒÂ©lson Semedo,24,Portugal,81,86,FC Barcelona,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬125K,Right,2,3,4,Medium/ High,Lean,RB,2,"Jul 14, 2017",,2022,5'10,148lbs,74,50
+226456,Pablo Fornals,22,Spain,81,86,Villarreal CF,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬36K,Right,1,3,4,High/ High,Normal,CAM,8,"Jul 24, 2017",,2022,5'10,148lbs,74,77
+226271,FabiÃƒÂ¡n,22,Spain,81,89,Napoli,Ã¢â€šÂ¬26M,Ã¢â€šÂ¬64K,Left,1,4,4,Medium/ Medium,Lean,LM,8,"Jul 5, 2018",,2023,6'2,154lbs,72,79
+225508,E. Bailly,24,Ivory Coast,81,87,Manchester United,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬105K,Right,2,3,2,Medium/ High,Normal,CB,2,"Jul 1, 2016",,2020,6'1,170lbs,51,33
+222509,Dani Ceballos,21,Spain,81,88,Real Madrid,Ã¢â€šÂ¬25M,Ã¢â€šÂ¬120K,Right,1,3,4,Medium/ Medium,Normal,LCM,21,"Jul 14, 2017",,2023,5'10,154lbs,74,68
+221992,H. Lozano,22,Mexico,81,86,PSV,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬22K,Right,3,4,4,High/ Medium,Lean,LS,22,"Jul 21, 2017",,2023,5'9,154lbs,75,77
+216475,Morales,30,Spain,81,81,Levante UD,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬33K,Right,1,4,4,High/ Medium,Lean,LS,11,"Jun 1, 2011",,2021,5'11,154lbs,79,80
+216451,J. Seri,26,Ivory Coast,81,82,Fulham,Ã¢â€šÂ¬20.5M,Ã¢â€šÂ¬73K,Right,2,4,3,Medium/ Medium,Normal,LDM,24,"Jul 12, 2018",,2022,5'7,161lbs,72,69
+216409,M. Politano,24,Italy,81,84,Inter,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬57K,Left,2,4,4,High/ Medium,Normal,RM,16,,Sassuolo,"Jun 30, 2019",5'7,148lbs,79,74
+216352,M. BrozoviÃ„â€¡,25,Croatia,81,84,Inter,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬64K,Right,2,4,3,Medium/ Medium,Lean,LDM,77,"Jul 1, 2016",,2022,5'11,150lbs,72,69
+216201,Williams,24,Spain,81,87,Athletic Club de Bilbao,Ã¢â€šÂ¬24.5M,Ã¢â€šÂ¬31K,Right,2,3,4,High/ High,Lean,LW,9,"Aug 1, 2012",,2025,6'1,174lbs,78,77
+214997,A. Correa,23,Argentina,81,87,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬24.5M,Ã¢â€šÂ¬54K,Right,1,4,4,Medium/ Low,Lean,RM,11,"Dec 13, 2014",,2024,5'7,150lbs,74,82
+213661,A. Christensen,22,Denmark,81,88,Chelsea,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬91K,Right,2,3,2,Low/ Medium,Lean,LCB,6,"Apr 10, 2013",,2022,6'2,179lbs,49,36
+212814,JoÃƒÂ£o MÃƒÂ¡rio,25,Portugal,81,84,Inter,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬71K,Right,3,4,4,Medium/ Medium,Normal,CAM,10,"Aug 28, 2016",,2021,5'10,161lbs,77,64
+212151,T. Strakosha,23,Albania,81,86,Lazio,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬36K,Right,1,2,1,Medium/ Medium,Lean,GK,1,"Aug 9, 2012",,2019,6'4,172lbs,18,18
+210864,E. Hysaj,24,Albania,81,86,Napoli,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬58K,Right,2,3,3,Medium/ Medium,Normal,RB,23,"Aug 2, 2015",,2021,6'0,154lbs,78,47
+210406,P. ZieliÃ…â€žski,24,Poland,81,88,Napoli,Ã¢â€šÂ¬24.5M,Ã¢â€šÂ¬64K,Right,3,5,4,Medium/ Medium,Lean,RCM,20,"Aug 9, 2016",,2021,5'11,165lbs,77,65
+210243,Ricardo Pereira,24,Portugal,81,85,Leicester City,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬64K,Right,3,4,3,High/ High,Lean,RB,14,"Jun 9, 2018",,2023,5'9,154lbs,81,61
+210035,Grimaldo,22,Spain,81,87,SL Benfica,Ã¢â€šÂ¬20.5M,Ã¢â€šÂ¬14K,Left,3,2,3,High/ Medium,Normal,LB,3,"Jan 4, 2016",,2021,5'7,152lbs,83,50
+209889,R. Guerreiro,24,Portugal,81,86,Borussia Dortmund,Ã¢â€šÂ¬24M,Ã¢â€šÂ¬54K,Left,3,3,4,Medium/ Medium,Normal,LM,13,"Jul 1, 2016",,2020,5'7,157lbs,85,75
+208135,A. DoucourÃƒÂ©,25,France,81,85,Watford,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬60K,Right,2,3,3,High/ Medium,Lean,RDM,16,"Feb 2, 2016",,2023,6'0,168lbs,68,73
+207877,J. MartÃƒÂ­nez,25,Venezuela,81,84,Atlanta United,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬14K,Right,1,4,3,High/ Medium,Normal,LS,17,"Mar 22, 2017",,2020,5'7,152lbs,53,84
+207664,C. Bacca,31,Colombia,81,81,Villarreal CF,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬45K,Right,3,2,3,Medium/ Low,Normal,LS,7,"Aug 17, 2018",,2022,5'11,170lbs,60,84
+206467,A. Plea,25,France,81,83,Borussia MÃƒÂ¶nchengladbach,Ã¢â€šÂ¬22M,Ã¢â€šÂ¬40K,Right,2,3,4,High/ Medium,Stocky,LW,14,"Jul 13, 2018",,2023,5'11,174lbs,78,82
+205923,B. Davies,25,Wales,81,84,Tottenham Hotspur,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬87K,Left,2,3,3,High/ High,Lean,LB,4,"Jul 23, 2014",,2021,6'0,168lbs,83,58
+205362,M. NastasiÃ„â€¡,25,Serbia,81,84,FC Schalke 04,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬36K,Left,2,2,2,Low/ High,Normal,LCB,5,"Jan 14, 2015",,2022,6'2,183lbs,46,30
+205175,A. Milik,24,Poland,81,88,Napoli,Ã¢â€šÂ¬25.5M,Ã¢â€šÂ¬71K,Left,3,3,4,Medium/ Medium,Lean,CF,7,"Aug 2, 2016",,2021,6'1,172lbs,58,88
+204923,M. Sabitzer,24,Austria,81,84,RB Leipzig,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬54K,Right,2,4,3,High/ High,Normal,LM,9,"Jul 1, 2014",,2022,5'10,170lbs,70,79
+204884,B. Mendy,23,France,81,86,Manchester City,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬105K,Left,2,3,3,High/ Low,Normal,LB,22,"Jul 24, 2017",,2022,6'1,187lbs,87,33
+204024,C. Kramer,27,Germany,81,82,Borussia MÃƒÂ¶nchengladbach,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬35K,Right,2,3,3,High/ High,Lean,CDM,6,"Jul 1, 2016",,2021,6'3,168lbs,61,45
+203890,S. Vrsaljko,26,Croatia,81,84,Inter,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬57K,Right,2,3,3,High/ Medium,Lean,RB,2,,AtlÃƒÂ©tico Madrid,"Jun 30, 2019",5'11,168lbs,82,44
+203486,T. Hazard,25,Belgium,81,83,Borussia MÃƒÂ¶nchengladbach,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬40K,Right,2,3,4,Medium/ Medium,Lean,RW,16,"Jul 1, 2015",,2020,5'9,152lbs,77,69
+202857,K. Bellarabi,28,Germany,81,81,Bayer 04 Leverkusen,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬76K,Right,3,3,4,High/ High,Normal,RM,38,"Jul 1, 2011",,2021,6'0,179lbs,76,72
+202685,S. Zaza,27,Italy,81,82,Torino,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬48K,Left,2,3,4,High/ High,Normal,RS,11,,Valencia CF,"Jun 30, 2019",6'1,185lbs,52,80
+201454,F. Ghoulam,27,Algeria,81,82,Napoli,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬68K,Left,2,4,3,High/ Medium,Normal,LB,31,"Jan 31, 2014",,2022,6'0,176lbs,85,54
+200726,B. Lecomte,27,France,81,84,Montpellier HSC,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬27K,Left,2,3,1,Medium/ Medium,Normal,GK,40,"Jul 1, 2017",,2021,6'1,172lbs,13,11
+200647,J. IliÃ„ÂiÃ„â€¡,30,Slovenia,81,81,Atalanta,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬41K,Left,3,3,4,Medium/ Medium,Lean,CAM,7,"Jul 5, 2017",,2021,6'3,174lbs,78,78
+200610,K. Volland,25,Germany,81,83,Bayer 04 Leverkusen,Ã¢â€šÂ¬22M,Ã¢â€šÂ¬76K,Left,2,3,3,High/ High,Stocky,ST,31,"Jul 1, 2016",,2021,5'10,187lbs,78,81
+200454,Paco AlcÃƒÂ¡cer,24,Spain,81,85,Borussia Dortmund,Ã¢â€šÂ¬23.5M,Ã¢â€šÂ¬59K,Right,2,4,3,High/ Medium,Normal,ST,9,"Nov 23, 2018",,2023,5'9,159lbs,53,85
+199715,Vitolo,28,Spain,81,81,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬65K,Right,2,4,3,High/ High,Normal,LM,23,"Jul 12, 2017",,2022,6'1,174lbs,78,77
+199503,G. Xhaka,25,Switzerland,81,84,Arsenal,Ã¢â€šÂ¬22M,Ã¢â€šÂ¬115K,Left,3,2,3,Medium/ Medium,Normal,LDM,10,"Jul 1, 2016",,2021,6'1,181lbs,71,49
+199434,D. TadiÃ„â€¡,29,Serbia,81,81,Ajax,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬26K,Left,3,2,4,Medium/ Low,Normal,LAM,10,"Jul 3, 2018",,2022,5'11,168lbs,83,74
+199042,C. ArÃƒÂ¡nguiz,29,Chile,81,81,Bayer 04 Leverkusen,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬76K,Right,2,4,3,Medium/ Medium,Lean,LDM,20,"Aug 13, 2015",,2020,5'7,154lbs,78,64
+196889,S. Verdi,25,Italy,81,81,Napoli,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬77K,Left,2,5,4,High/ Medium,Lean,RW,9,"Jul 1, 2018",,2023,5'7,134lbs,82,67
+195086,D. Lovren,28,Croatia,81,82,Liverpool,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬115K,Right,2,4,2,Medium/ High,Normal,RCB,6,"Jul 27, 2014",,2021,6'2,185lbs,59,33
+193532,G. Medel,30,Chile,81,81,BeÃ…Å¸iktaÃ…Å¸ JK,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬56K,Right,3,4,3,Medium/ High,Stocky,RCB,17,"Aug 11, 2017",,2020,5'7,143lbs,50,31
+193348,X. Shaqiri,26,Switzerland,81,81,Liverpool,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬130K,Left,3,4,5,Medium/ Medium,Shaqiri,CAM,23,"Jul 13, 2018",,2023,5'7,159lbs,78,71
+193165,J. Corona,25,Mexico,81,83,FC Porto,Ã¢â€šÂ¬21.5M,Ã¢â€šÂ¬18K,Right,3,5,5,Medium/ Low,Normal,RM,17,"Aug 31, 2015",,2020,5'8,137lbs,73,76
+193105,A. Areola,25,France,81,85,Paris Saint-Germain,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬61K,Right,2,3,1,Medium/ Medium,Normal,GK,23,"Jul 1, 2010",,2019,6'5,207lbs,20,19
+192641,K. Vogt,26,Germany,81,82,TSG 1899 Hoffenheim,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬42K,Right,2,3,2,High/ Medium,Normal,CB,22,"Jul 1, 2016",,2022,6'4,187lbs,60,50
+191740,Ander Herrera,28,Spain,81,81,Manchester United,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬140K,Right,3,4,3,High/ High,Lean,CM,21,"Jun 26, 2014",,2019,6'0,154lbs,74,71
+190972,E. Salvio,27,Argentina,81,81,SL Benfica,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬19K,Right,2,4,4,High/ Medium,Stocky,RW,18,"Jul 1, 2012",,2019,5'8,170lbs,78,77
+190813,S. El Shaarawy,25,Italy,81,82,Roma,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬77K,Right,3,3,5,High/ Medium,Lean,LM,92,"Jan 26, 2016",,2020,5'10,159lbs,74,78
+189881,C. Smalling,28,England,81,82,Manchester United,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬130K,Right,3,3,2,Medium/ High,Lean,RCB,12,"Jul 1, 2010",,2019,6'4,179lbs,52,54
+189362,Hulk,31,Brazil,81,81,Shanghai SIPG FC,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬25K,Left,4,3,4,High/ Medium,Stocky,RCM,10,"Jul 1, 2017",,2020,5'11,187lbs,76,81
+189358,S. Kagawa,29,Japan,81,81,Borussia Dortmund,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬65K,Right,3,4,4,High/ Medium,Lean,CAM,23,"Aug 31, 2014",,2020,5'9,150lbs,65,76
+188988,M. Lanzini,25,Argentina,81,85,West Ham United,Ã¢â€šÂ¬23M,Ã¢â€šÂ¬90K,Right,2,3,4,Medium/ Medium,Lean,CAM,10,"Jul 1, 2016",,2020,5'6,130lbs,74,70
+187491,F. Smolov,28,Russia,81,81,Lokomotiv Moscow,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬1K,Right,1,4,4,High/ Medium,Lean,ST,11,"Aug 9, 2018",,2022,6'2,176lbs,56,84
+187072,L. Stindl,29,Germany,81,81,Borussia MÃƒÂ¶nchengladbach,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬43K,Right,2,4,4,Medium/ Medium,Normal,CF,13,"Jul 1, 2015",,2021,5'11,176lbs,76,79
+185239,O. Toprak,28,Turkey,81,82,Borussia Dortmund,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬59K,Right,3,4,2,Medium/ Medium,Normal,CB,36,"Jul 1, 2017",,2021,6'1,183lbs,49,28
+183900,D. Perotti,29,Argentina,81,81,Roma,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬84K,Right,3,4,4,Medium/ Medium,Lean,LW,8,"Jan 1, 2016",,2021,5'10,154lbs,79,66
+182494,F. Muslera,32,Uruguay,81,81,Galatasaray SK,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬52K,Right,3,2,1,Medium/ Medium,Normal,GK,1,"Aug 11, 2011",,2021,6'3,163lbs,15,10
+179784,B. HÃƒÂ¶wedes,30,Germany,81,81,Lokomotiv Moscow,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬1K,Right,3,3,2,Medium/ Medium,Normal,RCB,5,"Jul 31, 2018",,2022,6'2,170lbs,58,51
+179645,S. KjÃƒÂ¦r,29,Denmark,81,81,Sevilla FC,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬23K,Right,3,3,2,Low/ High,Normal,RCB,4,"Aug 2, 2017",,2021,6'2,185lbs,54,55
+177458,S. Bender,29,Germany,81,81,Bayer 04 Leverkusen,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬69K,Right,2,4,2,Medium/ High,Lean,LCB,5,"Jul 13, 2017",,2021,6'1,176lbs,43,39
+177326,M. Valbuena,33,France,81,81,FenerbahÃƒÂ§e SK,Ã¢â€šÂ¬11M,Ã¢â€šÂ¬86K,Right,3,3,3,High/ Medium,Normal,LM,28,"Jun 17, 2017",,2019,5'6,139lbs,82,74
+175379,Pedro LeÃƒÂ³n,31,Spain,81,81,SD Eibar,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬32K,Right,2,3,4,Medium/ Low,Normal,RM,21,"Jul 5, 2016",,2020,6'0,161lbs,91,76
+173909,K. Boateng,31,Ghana,81,81,Sassuolo,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬65K,Right,3,4,4,High/ Medium,Normal,CM,27,"Jul 5, 2018",,2021,6'1,190lbs,75,78
+173771,L. Piszczek,33,Poland,81,81,Borussia Dortmund,Ã¢â€šÂ¬7M,Ã¢â€šÂ¬57K,Right,3,4,2,Medium/ Medium,Normal,RB,26,"Jul 1, 2010",,2020,6'0,174lbs,82,65
+173221,A. Candreva,31,Italy,81,81,Inter,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬74K,Right,3,4,4,Medium/ Medium,Normal,RM,87,"Aug 3, 2016",,2021,5'11,154lbs,83,73
+172522,D. Wass,29,Denmark,81,81,Valencia CF,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬46K,Right,2,3,4,High/ Medium,Lean,RB,18,"Jul 10, 2018",,2022,5'11,163lbs,78,74
+170368,E. Lamela,26,Argentina,81,82,Tottenham Hotspur,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬105K,Left,2,2,4,High/ High,Lean,RM,22,"Aug 30, 2013",,2022,6'0,176lbs,78,74
+169595,D. Rose,27,England,81,81,Tottenham Hotspur,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬92K,Left,3,3,3,Medium/ High,Normal,LB,3,"Jul 1, 2007",,2021,5'9,168lbs,82,57
+169416,C. Vela,29,Mexico,81,81,Los Angeles FC,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬15K,Left,3,2,4,High/ Low,Normal,RW,10,"Jan 1, 2018",,2022,5'10,170lbs,79,81
+169195,Renato Augusto,30,Brazil,81,81,Beijing Sinobo Guoan FC,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬28K,Right,2,4,3,Medium/ Medium,Normal,LCM,5,"Jan 8, 2016",,2021,6'1,190lbs,75,65
+167905,A. Valencia,32,Ecuador,81,81,Manchester United,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬120K,Right,2,2,3,High/ High,Stocky,RM,16,"Jun 30, 2009",,2019,5'11,183lbs,79,60
+164835,L. FabiaÃ…â€žski,33,Poland,81,81,West Ham United,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬70K,Right,2,2,1,Medium/ Medium,Normal,GK,22,"Jun 20, 2018",,2021,6'3,183lbs,14,13
+162347,JoÃƒÂ£o Moutinho,31,Portugal,81,81,Wolverhampton Wanderers,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬85K,Right,3,4,3,High/ Medium,Normal,RCM,28,"Jul 24, 2018",,2020,5'7,134lbs,77,74
+161956,Borja Valero,33,Spain,81,81,Inter,Ã¢â€šÂ¬11M,Ã¢â€šÂ¬74K,Right,3,4,4,Medium/ Medium,Normal,CAM,20,"Jul 10, 2017",,2020,5'9,161lbs,78,67
+159261,F. Quagliarella,35,Italy,81,81,Sampdoria,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬39K,Right,2,4,4,Medium/ Medium,Normal,RS,27,"Jul 1, 2016",,2019,5'11,174lbs,66,84
+159145,B. Gomis,32,France,81,81,Al Hilal,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬56K,Right,3,3,4,High/ Low,Normal,ST,18,"Aug 23, 2018",,2020,6'0,170lbs,61,84
+157960,Manuel Fernandes,32,Portugal,81,81,Lokomotiv Moscow,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬1K,Right,2,4,4,High/ Medium,Normal,LM,4,"Jul 1, 2014",,2019,5'9,165lbs,79,70
+156519,H. Herrera,28,Mexico,81,81,FC Porto,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬20K,Right,3,4,3,High/ High,Normal,CM,16,"Jul 1, 2013",,2019,6'0,159lbs,63,68
+144622,Raffael,33,Brazil,81,81,Borussia MÃƒÂ¶nchengladbach,Ã¢â€šÂ¬11M,Ã¢â€šÂ¬41K,Right,2,4,4,High/ Medium,Lean,CF,11,"Jul 1, 2013",,2019,5'9,152lbs,78,78
+139068,Nani,31,Portugal,81,81,Sporting CP,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬19K,Right,3,5,5,High/ Medium,Lean,LM,17,"Jul 11, 2018",,2020,5'10,150lbs,80,70
+138412,J. Milner,32,England,81,81,Liverpool,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬120K,Right,2,4,3,High/ High,Stocky,CM,7,"Jul 1, 2015",,2020,5'9,154lbs,86,62
+112316,J. Mathieu,34,France,81,81,Sporting CP,Ã¢â€šÂ¬5.5M,Ã¢â€šÂ¬18K,Left,3,2,2,High/ Medium,Normal,LCB,22,"Jul 7, 2017",,2019,6'2,185lbs,79,52
+45186,JoaquÃƒÂ­n,36,Spain,81,81,Real Betis,Ã¢â€šÂ¬6M,Ã¢â€šÂ¬24K,Right,2,3,4,High/ Medium,Normal,LS,17,"Sep 1, 2015",,2020,5'10,165lbs,86,80
+239207,M. GÃƒÂ³mez,21,Uruguay,80,85,RC Celta,Ã¢â€šÂ¬20.5M,Ã¢â€šÂ¬25K,Right,1,3,3,Low/ Medium,Stocky,ST,18,"Jul 1, 2017",,2022,6'1,185lbs,56,85
+235790,K. Havertz,19,Germany,80,89,Bayer 04 Leverkusen,Ã¢â€šÂ¬22M,Ã¢â€šÂ¬32K,Left,1,5,4,Medium/ Medium,Lean,CAM,29,"Jul 1, 2016",,2022,6'2,183lbs,69,72
+235569,T. Ndombele,21,France,80,89,Olympique Lyonnais,Ã¢â€šÂ¬22.5M,Ã¢â€šÂ¬51K,Right,1,3,4,High/ High,Normal,CM,17,"Jul 1, 2018",,2023,5'11,168lbs,67,59
+234906,H. Aouar,20,France,80,90,Olympique Lyonnais,Ã¢â€šÂ¬23.5M,Ã¢â€šÂ¬51K,Right,1,4,4,High/ Medium,Lean,LM,8,"Jul 1, 2016",,2023,5'9,154lbs,68,72
+234153,Carlos Soler,21,Spain,80,87,Valencia CF,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬31K,Right,1,4,4,Medium/ Medium,Lean,RM,8,"Jul 1, 2015",,2021,5'11,168lbs,80,74
+234035,Odriozola,22,Spain,80,88,Real Madrid,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬115K,Right,1,3,3,High/ Medium,Lean,RB,19,"Jul 5, 2018",,2024,5'9,146lbs,81,45
+230977,M. AlmirÃƒÂ³n,24,Paraguay,80,84,Atlanta United,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬11K,Left,1,2,4,High/ High,Lean,CAM,10,"Jan 1, 2017",,2019,5'9,139lbs,71,74
+230347,Welington Dano,30,Brazil,80,80,Cruzeiro,Ã¢â€šÂ¬10.5M,Ã¢â€šÂ¬34K,Left,1,4,4,Medium/ Medium,Lean,LB,5,"Jan 1, 2018",,2021,5'10,152lbs,82,51
+230234,Everton AndrÃƒÂ£o,34,Brazil,80,80,Fluminense,Ã¢â€šÂ¬4.5M,Ã¢â€šÂ¬34K,Right,1,4,2,High/ High,Stocky,CDM,6,"Jan 1, 2018",,2021,5'10,165lbs,75,58
+230142,Oyarzabal,21,Spain,80,87,Real Sociedad,Ã¢â€šÂ¬21M,Ã¢â€šÂ¬29K,Left,1,3,3,High/ Medium,Lean,CAM,10,"Jul 1, 2014",,2024,5'11,172lbs,81,78
+228229,F. Balbuena,26,Paraguay,80,83,West Ham United,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬80K,Right,1,3,2,Medium/ Medium,Normal,RCB,4,"Jul 14, 2018",,2021,6'2,187lbs,33,31
+227536,M. Marega,27,Mali,80,80,FC Porto,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬19K,Right,2,3,2,High/ Medium,Stocky,RS,11,"Jan 25, 2016",,2021,6'1,183lbs,59,80
+226851,B. Pavard,22,France,80,86,VfB Stuttgart,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬33K,Right,1,3,3,Medium/ Medium,Lean,RB,2,"Aug 30, 2016",,2021,6'1,168lbs,66,37
+226790,W. Ndidi,21,Nigeria,80,85,Leicester City,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬50K,Right,1,4,3,Medium/ High,Lean,LDM,25,"Jan 5, 2017",,2024,6'0,163lbs,50,50
+226753,A. Onana,22,Cameroon,80,85,Ajax,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬14K,Right,2,3,1,Medium/ Medium,Stocky,GK,1,"Jan 14, 2015",,2021,6'2,205lbs,15,12
+226226,G. Lo Celso,22,Argentina,80,86,Real Betis,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬72K,Left,1,3,3,High/ Medium,Normal,RCM,20,,Paris Saint-Germain,"Jun 30, 2019",5'9,154lbs,75,73
+224334,M. AcuÃƒÂ±a,26,Argentina,80,80,Sporting CP,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬16K,Left,2,3,4,Medium/ High,Stocky,LB,9,"Jul 21, 2017",,2023,5'8,152lbs,87,65
+224293,RÃƒÂºben Neves,21,Portugal,80,87,Wolverhampton Wanderers,Ã¢â€šÂ¬20.5M,Ã¢â€šÂ¬59K,Right,2,3,3,Medium/ Medium,Normal,LCM,5,"Jul 8, 2017",,2023,5'11,176lbs,75,61
+221639,Mariano,24,Dominican Republic,80,85,Real Madrid,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬140K,Right,1,4,3,High/ Medium,Normal,ST,7,"Aug 29, 2018",,2023,5'11,168lbs,50,81
+221540,RaÃƒÂºl,28,Brazil,80,80,SC Braga,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬19K,Left,1,3,2,Medium/ Medium,Normal,CB,34,"Jul 1, 2017",,2022,6'2,179lbs,56,50
+220477,M. Caldara,24,Italy,80,86,Milan,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬73K,Right,2,3,2,Medium/ High,Normal,CB,33,"Aug 2, 2018",,2023,6'2,176lbs,34,36
+219985,M. Vecino,26,Uruguay,80,81,Inter,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬63K,Right,2,3,4,High/ High,Lean,LM,15,"Aug 2, 2017",,2022,6'2,179lbs,71,61
+219809,T. Bakayoko,23,France,80,85,Milan,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬85K,Right,2,3,3,Medium/ Medium,Lean,LCM,14,,Chelsea,"Jun 30, 2019",6'2,187lbs,55,37
+218339,M. Dahoud,22,Germany,80,86,Borussia Dortmund,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬50K,Right,2,4,4,High/ High,Lean,CM,19,"Jul 1, 2017",,2022,5'10,150lbs,67,60
+216547,Rafa,25,Portugal,80,83,SL Benfica,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬17K,Right,2,4,4,High/ Medium,Lean,RW,27,"Aug 31, 2016",,2021,5'8,146lbs,77,66
+215785,K. BaldÃƒÂ©,23,Senegal,80,85,Inter,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬65K,Right,2,4,4,High/ Low,Normal,RM,11,,AS Monaco,"Jun 30, 2019",5'11,176lbs,75,78
+215316,G. Rulli,26,Argentina,80,85,Real Sociedad,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬26K,Right,3,3,1,Medium/ Medium,Lean,GK,23,"Jan 1, 2017",,2022,6'2,185lbs,12,15
+214584,F. Armani,31,Argentina,80,80,River Plate,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬22K,Right,1,2,1,Medium/ Medium,Normal,GK,1,"Jan 12, 2018",,2022,6'2,194lbs,18,11
+212692,Rony Lopes,22,Portugal,80,85,AS Monaco,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬65K,Left,2,3,4,High/ Medium,Stocky,RM,7,"Aug 28, 2015",,2022,5'9,150lbs,78,79
+212623,Santi Mina,22,Spain,80,85,Valencia CF,Ã¢â€šÂ¬20M,Ã¢â€šÂ¬40K,Right,1,4,3,High/ Medium,Normal,LS,22,"Jul 4, 2015",,2021,5'11,170lbs,73,82
+211748,K. Demirbay,24,Germany,80,84,TSG 1899 Hoffenheim,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬37K,Left,2,4,4,Medium/ Medium,Lean,RCM,10,"Jul 13, 2016",,2022,6'0,159lbs,72,72
+211688,GayÃƒÂ ,23,Spain,80,85,Valencia CF,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬33K,Left,2,3,3,High/ Medium,Lean,LB,3,"Sep 13, 2012",,2023,5'8,146lbs,82,61
+211575,AndrÃƒÂ© Gomes,24,Portugal,80,85,Everton,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬130K,Right,3,4,4,Medium/ Medium,Normal,LDM,8,,FC Barcelona,"Jun 30, 2019",6'2,185lbs,61,65
+211256,N. Tagliafico,25,Argentina,80,82,Ajax,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬20K,Left,2,2,3,High/ Medium,Normal,LB,3,"Jan 5, 2018",,2022,5'7,143lbs,75,57
+210896,M. Sanson,23,France,80,85,Olympique de Marseille,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬47K,Right,2,4,4,Medium/ Medium,Normal,RDM,8,"Jan 17, 2017",,2021,5'11,161lbs,78,74
+209960,Pacheco,26,Spain,80,83,Deportivo AlavÃƒÂ©s,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬23K,Left,1,2,1,Medium/ Medium,Normal,GK,1,"Aug 7, 2015",,2020,6'1,179lbs,12,16
+208333,E. Can,24,Germany,80,85,Juventus,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬91K,Right,2,4,3,High/ High,Normal,CM,23,"Jul 1, 2018",,2022,6'0,181lbs,70,60
+208128,H. Ãƒâ€¡alhanoÃ„Å¸lu,24,Turkey,80,84,Milan,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬89K,Right,3,4,4,Medium/ Medium,Normal,CAM,10,"Jul 3, 2017",,2021,5'10,168lbs,81,65
+207862,M. Ginter,24,Germany,80,82,Borussia MÃƒÂ¶nchengladbach,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬28K,Right,2,3,2,Medium/ Medium,Normal,RWB,4,"Jul 4, 2017",,2021,6'2,183lbs,68,55
+207599,M. Keane,25,England,80,83,Everton,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬88K,Right,2,3,2,Medium/ High,Normal,RCB,4,"Jul 3, 2017",,2022,6'3,181lbs,60,50
+207439,L. Paredes,24,Argentina,80,85,,Ã¢â€šÂ¬0,Ã¢â€šÂ¬0,Right,2,4,4,Medium/ Medium,Normal,CM,5,,,,5'11,165lbs,76,55
+206413,T. Stepanenko,28,Ukraine,80,80,Shakhtar Donetsk,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬1K,Left,1,3,3,Medium/ High,Normal,RDM,6,"Jul 1, 2010",,2022,5'11,168lbs,63,53
+205988,L. Shaw,22,England,80,85,Manchester United,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬96K,Left,2,2,3,High/ Medium,Stocky,LB,23,"Jun 27, 2014",,2023,5'11,165lbs,82,47
+205705,Z. Feddal,28,Morocco,80,80,Real Betis,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬29K,Left,1,2,2,Medium/ Medium,Lean,CB,4,"Jul 24, 2017",,2021,6'3,183lbs,57,40
+205693,S. Haller,24,France,80,83,Eintracht Frankfurt,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬41K,Right,1,2,3,High/ Medium,Normal,RS,9,"Jul 1, 2017",,2021,6'3,201lbs,40,84
+205525,Bernard,25,Brazil,80,81,Everton,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬97K,Right,2,4,4,High/ Medium,Lean,LM,20,"Aug 9, 2018",,2022,5'5,132lbs,77,71
+205114,T. Inui,30,Japan,80,80,Real Betis,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬30K,Right,1,4,4,Medium/ Medium,Lean,LM,8,"Jul 2, 2018",,2021,5'7,139lbs,77,70
+205070,Portu,26,Spain,80,81,Girona FC,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬37K,Right,1,4,3,Medium/ Medium,Normal,RM,9,"Jul 1, 2016",,2022,5'10,154lbs,63,81
+204529,M. Batshuayi,24,Belgium,80,84,Valencia CF,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬105K,Right,2,5,4,Medium/ Low,Normal,ST,21,,Chelsea,"Jun 30, 2019",6'1,172lbs,65,82
+204399,E. Zahavi,30,Israel,80,80,Guangzhou R&F; FC,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬24K,Right,1,4,4,High/ Low,Normal,LS,7,"Jul 1, 2016",,2020,6'0,157lbs,60,83
+204120,T. VaclÃƒÂ­k,29,Czech Republic,80,81,Sevilla FC,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬17K,Right,1,3,1,Medium/ Medium,Normal,GK,1,"Jul 4, 2018",,2021,6'2,187lbs,15,14
+203841,N. Pope,26,England,80,83,Burnley,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬48K,Right,1,3,1,Medium/ Medium,Lean,GK,23,"Jul 20, 2016",,2020,6'7,168lbs,11,14
+203747,HÃƒÂ©ctor BellerÃƒÂ­n,23,Spain,80,85,Arsenal,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬85K,Right,3,3,3,High/ Low,Lean,RB,2,"Jul 1, 2014",,2023,5'10,163lbs,76,52
+203605,P. KadeÃ…â„¢ÃƒÂ¡bek,26,Czech Republic,80,81,TSG 1899 Hoffenheim,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬39K,Right,2,2,3,High/ Medium,Normal,RWB,2,"Jul 1, 2015",,2023,6'0,179lbs,86,28
+203042,J. Butland,25,England,80,85,Stoke City,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬39K,Right,2,3,1,Medium/ Medium,Normal,GK,13,"Jan 31, 2013",,2021,6'5,209lbs,11,16
+202849,J. Vestergaard,25,Denmark,80,81,Southampton,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬51K,Right,2,4,2,Medium/ Medium,Normal,CB,3,"Jul 13, 2018",,2022,6'6,216lbs,46,34
+202695,J. Tarkowski,25,England,80,83,Burnley,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬56K,Right,1,4,2,Medium/ Medium,Normal,RCB,5,"Feb 1, 2016",,2022,6'4,179lbs,59,36
+202477,Deulofeu,24,Spain,80,82,Watford,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬56K,Right,3,4,4,High/ Low,Normal,RS,7,"Jun 11, 2018",,2023,5'10,161lbs,75,69
+202335,E. Dier,24,England,80,84,Tottenham Hotspur,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬73K,Right,2,3,2,Medium/ High,Normal,CDM,4,"Aug 2, 2014",,2021,6'2,198lbs,67,52
+201377,J. Murillo,26,Colombia,80,84,Valencia CF,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬38K,Right,2,2,2,Medium/ High,Normal,LCB,22,"Aug 18, 2018",,2022,6'0,172lbs,56,37
+201144,M. Badelj,29,Croatia,80,80,Lazio,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬53K,Right,2,4,3,Medium/ Medium,Lean,CDM,25,"Aug 1, 2018",,2022,6'1,176lbs,69,54
+201119,Ismaily,28,Brazil,80,80,Shakhtar Donetsk,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬1K,Left,1,2,4,High/ High,Stocky,LB,31,"Feb 14, 2013",,2023,5'10,181lbs,80,60
+200536,N. Schulz,25,Germany,80,81,TSG 1899 Hoffenheim,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬37K,Left,1,2,3,High/ Medium,Normal,LWB,16,"Jul 8, 2017",,2020,5'11,172lbs,83,48
+200458,L. Digne,24,France,80,84,Everton,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬79K,Left,2,3,4,High/ Medium,Lean,LB,12,"Aug 1, 2018",,2023,5'10,163lbs,82,52
+200318,M. Uth,26,Germany,80,81,FC Schalke 04,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬42K,Left,1,3,3,Medium/ High,Lean,ST,7,"Jul 1, 2018",,2022,6'1,159lbs,67,85
+200315,Cristian Tello,26,Spain,80,80,Real Betis,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬30K,Right,2,4,3,Medium/ Low,Lean,LM,11,"Jul 1, 2017",,2022,5'10,143lbs,78,74
+199206,D. Vida,29,Croatia,80,80,BeÃ…Å¸iktaÃ…Å¸ JK,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬55K,Right,3,3,2,Medium/ High,Lean,LCB,24,"Jan 3, 2018",,2022,6'0,168lbs,65,41
+199110,L. Muriel,27,Colombia,80,81,Sevilla FC,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬24K,Right,2,4,4,High/ Medium,Stocky,ST,14,"Jul 11, 2017",,2022,5'10,174lbs,62,78
+199069,V. Aboubakar,26,Cameroon,80,82,FC Porto,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬19K,Right,3,3,5,High/ Medium,Normal,ST,9,"Aug 24, 2014",,2021,6'0,181lbs,57,80
+198784,A. Oxlade-Chamberlain,24,England,80,85,Liverpool,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬94K,Right,2,4,4,High/ High,Stocky,CM,21,"Aug 31, 2017",,2022,5'9,154lbs,78,69
+197853,S. Aurier,25,Ivory Coast,80,83,Tottenham Hotspur,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬82K,Right,2,3,3,High/ High,Normal,RB,17,"Aug 31, 2017",,2022,5'9,168lbs,83,54
+197061,J. Matip,26,Cameroon,80,82,Liverpool,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬99K,Right,2,2,2,Medium/ Medium,Lean,CB,32,"Jul 1, 2016",,2020,6'4,198lbs,54,36
+195861,Y. Rakitskyi,28,Ukraine,80,80,Shakhtar Donetsk,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬1K,Left,2,3,3,High/ Medium,Normal,LCB,44,"Aug 1, 2009",,2022,6'1,183lbs,68,57
+194879,Sergi Enrich,28,Spain,80,80,SD Eibar,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬34K,Right,2,4,3,High/ High,Stocky,RS,9,"Jul 12, 2015",,2019,5'11,170lbs,70,81
+194794,A. Yarmolenko,28,Ukraine,80,80,West Ham United,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬92K,Left,3,2,4,High/ Medium,Lean,RM,20,"Jul 11, 2018",,2022,6'3,183lbs,80,77
+194229,Hugo Mallo,27,Spain,80,81,RC Celta,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬27K,Right,2,3,3,High/ Medium,Normal,RB,2,"Jul 1, 2009",,2023,5'9,159lbs,84,28
+194022,AndrÃƒÂ© Almeida,27,Portugal,80,80,SL Benfica,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬15K,Right,2,3,3,Medium/ High,Normal,RB,34,"Jul 1, 2011",,2021,6'1,176lbs,80,54
+193886,D. Didavi,28,Germany,80,80,VfB Stuttgart,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬44K,Left,2,3,3,Medium/ Medium,Normal,CAM,10,"Jul 1, 2018",,2021,5'11,170lbs,75,80
+193352,R. RodrÃƒÂ­guez,25,Switzerland,80,83,Milan,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬81K,Left,3,3,4,Medium/ Medium,Normal,LB,13,"Jul 1, 2017",,2021,5'11,170lbs,86,59
+193061,R. Pereyra,27,Argentina,80,80,Watford,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬65K,Right,2,4,4,High/ Medium,Lean,LM,7,"Aug 19, 2016",,2021,6'0,170lbs,78,74
+192789,Mario Gaspar,27,Spain,80,80,Villarreal CF,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬35K,Right,2,3,3,High/ Medium,Normal,RB,2,"Jul 1, 2008",,2023,6'0,163lbs,79,68
+191687,Maicon,29,Brazil,80,80,Galatasaray SK,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬63K,Right,2,3,2,Medium/ High,Normal,CB,3,"Jul 1, 2017",,2021,6'3,196lbs,70,40
+190815,D. Blind,28,Netherlands,80,80,Ajax,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬22K,Left,3,4,3,Medium/ Medium,Normal,LB,5,"Jul 17, 2018",,2022,5'11,159lbs,81,46
+190778,J. Zoet,27,Netherlands,80,83,PSV,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬16K,Right,2,4,1,Medium/ Medium,Normal,GK,13,"Jul 1, 2009",,2021,6'2,194lbs,17,12
+190544,A. LjajiÃ„â€¡,26,Serbia,80,81,BeÃ…Å¸iktaÃ…Å¸ JK,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬52K,Right,2,4,4,High/ Low,Lean,CAM,22,,Torino,"Jun 30, 2019",6'0,163lbs,72,69
+190286,Canales,27,Spain,80,80,Real Betis,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬30K,Left,2,3,3,High/ Medium,Lean,RCM,6,"Jul 3, 2018",,2022,5'11,163lbs,79,77
+190264,Iago FalquÃƒÂ©,28,Spain,80,80,Torino,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬59K,Left,3,3,4,High/ High,Normal,RW,14,"Jan 4, 2017",,2022,5'9,152lbs,78,75
+189805,L. de Jong,27,Netherlands,80,80,PSV,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬23K,Right,2,3,2,Medium/ High,Normal,ST,19,"Jul 12, 2014",,2021,6'2,190lbs,66,79
+189690,Guaita,31,Spain,80,80,Crystal Palace,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬48K,Right,2,3,1,Medium/ Medium,Normal,GK,31,"Jul 1, 2018",,2021,6'3,176lbs,35,11
+189575,Muniain,25,Spain,80,83,Athletic Club de Bilbao,Ã¢â€šÂ¬18.5M,Ã¢â€šÂ¬31K,Right,2,3,4,High/ Medium,Normal,CAM,10,"Aug 1, 2009",,2024,5'7,139lbs,74,76
+189354,Susaeta,30,Spain,80,80,Athletic Club de Bilbao,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬33K,Right,2,3,4,High/ Medium,Lean,RW,14,"Jun 1, 2007",,2019,5'10,150lbs,88,69
+189251,S. Rudy,28,Germany,80,80,FC Schalke 04,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬37K,Right,2,3,3,Medium/ Medium,Lean,CDM,13,"Aug 27, 2018",,2022,5'10,163lbs,73,63
+188943,K. Trapp,27,Germany,80,81,Eintracht Frankfurt,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬61K,Right,2,4,1,Medium/ Medium,Normal,GK,31,,Paris Saint-Germain,"Jun 30, 2019",6'2,190lbs,13,13
+188942,V. Wanyama,27,Kenya,80,82,Tottenham Hotspur,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬86K,Right,2,3,2,Medium/ High,Normal,CDM,12,"Jul 1, 2016",,2021,6'0,192lbs,62,61
+188829,N. Nkoulou,28,Cameroon,80,80,Torino,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬50K,Right,3,3,3,Medium/ Medium,Lean,CB,18,"Jul 1, 2018",,2020,6'0,170lbs,60,33
+188388,R. Boudebouz,28,Algeria,80,80,Real Betis,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬31K,Left,2,4,4,High/ Medium,Lean,CAM,10,"Aug 9, 2017",,2021,5'10,163lbs,82,77
+188005,Camacho,28,Spain,80,81,VfL Wolfsburg,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬51K,Right,2,3,2,Medium/ High,Lean,CDM,4,"Jul 8, 2017",,2021,6'0,165lbs,50,58
+186569,S. Ulreich,29,Germany,80,80,FC Bayern MÃƒÂ¼nchen,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬61K,Right,2,2,1,Medium/ Medium,Lean,GK,26,"Jul 1, 2015",,2021,6'4,185lbs,14,12
+186547,M. Musacchio,27,Argentina,80,80,Milan,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬85K,Right,3,3,3,Medium/ Medium,Normal,RCB,22,"Jul 1, 2017",,2021,5'11,161lbs,55,40
+186537,C. Stuani,31,Uruguay,80,80,Girona FC,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬41K,Right,1,3,4,Medium/ Low,Lean,ST,11,"Jul 21, 2017",,2020,6'1,159lbs,68,80
+185122,P. GulÃƒÂ¡csi,28,Hungary,80,80,RB Leipzig,Ã¢â€šÂ¬10.5M,Ã¢â€šÂ¬45K,Right,2,2,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2015",,2022,6'4,190lbs,16,10
+184120,Bruno,34,Spain,80,80,Villarreal CF,Ã¢â€šÂ¬7M,Ã¢â€šÂ¬39K,Left,3,3,3,Medium/ High,Normal,CM,21,"Jul 1, 2005",,2020,6'0,161lbs,60,66
+183427,F. Delph,28,England,80,80,Manchester City,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬120K,Left,2,3,3,High/ High,Lean,LB,18,"Jul 17, 2015",,2020,5'9,172lbs,74,64
+180819,A. Lallana,30,England,80,80,Liverpool,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬110K,Right,3,5,4,High/ High,Lean,CM,20,"Jul 1, 2014",,2021,5'10,161lbs,74,72
+180334,Marcelo,31,Brazil,80,80,Olympique Lyonnais,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬64K,Right,2,2,2,Low/ Medium,Normal,RCB,6,"Jul 17, 2017",,2021,6'3,187lbs,36,48
+180216,S. Coleman,29,Republic of Ireland,80,80,Everton,Ã¢â€šÂ¬11M,Ã¢â€šÂ¬97K,Right,2,3,3,High/ High,Normal,RWB,2,"Feb 4, 2009",,2022,5'10,148lbs,82,61
+180175,Alexandre Pato,28,Brazil,80,80,Tianjin Quanjian FC,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬35K,Right,3,3,4,High/ Low,Normal,ST,10,"Sep 28, 2017",,2019,5'11,179lbs,68,80
+178424,Antunes,31,Portugal,80,80,Getafe CF,Ã¢â€šÂ¬9.5M,Ã¢â€šÂ¬27K,Left,2,3,3,High/ Medium,Normal,LB,3,"Jul 2, 2018",,2020,5'9,152lbs,81,56
+177604,Nacho Monreal,32,Spain,80,80,Arsenal,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬99K,Left,2,3,3,High/ Medium,Lean,LB,18,"Jan 31, 2013",,2019,5'10,159lbs,76,55
+177600,BeÃƒÂ±at,31,Spain,80,80,Athletic Club de Bilbao,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬30K,Right,2,3,3,Medium/ Medium,Normal,LCM,7,"Jun 26, 2013",,2020,5'10,168lbs,80,69
+176915,A. FernÃƒÂ¡ndez,32,Argentina,80,80,Beijing Renhe FC,Ã¢â€šÂ¬11M,Ã¢â€šÂ¬20K,Right,2,3,4,Medium/ Medium,Lean,LDM,8,"Jan 31, 2018",,2019,5'10,161lbs,70,69
+176600,K. Gameiro,31,France,80,80,Valencia CF,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬45K,Right,3,3,3,Medium/ Medium,Normal,ST,9,"Aug 13, 2018",,2021,5'8,154lbs,70,78
+176376,I. Piatti,33,Argentina,80,80,Montreal Impact,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬13K,Right,2,4,5,High/ Medium,Lean,LW,10,"Aug 15, 2014",,2020,5'11,168lbs,69,81
+176104,V. Birsa,31,Slovenia,80,80,Chievo Verona,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬23K,Left,2,4,4,Medium/ Medium,Normal,CAM,10,"Jul 3, 2015",,2021,6'0,179lbs,78,62
+173373,S. Romero,31,Argentina,80,80,Manchester United,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬91K,Right,3,3,1,Medium/ Medium,Normal,GK,1,"Jul 27, 2015",,2021,6'4,192lbs,11,14
+173208,D. Criscito,31,Italy,80,80,Genoa,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬21K,Left,2,3,3,Medium/ Medium,Normal,LCB,4,"Jul 1, 2018",,2023,6'0,165lbs,82,56
+172114,D. Valeri,32,Argentina,80,80,Portland Timbers,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬12K,Right,2,3,3,High/ Medium,Lean,RF,8,"Jan 10, 2013",,2018,5'10,165lbs,78,80
+171833,D. Sturridge,28,England,80,80,Liverpool,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬125K,Left,3,2,4,Medium/ Low,Normal,ST,15,"Jan 2, 2013",,2019,5'11,168lbs,62,83
+171579,RaÃƒÂºl GarcÃƒÂ­a,31,Spain,80,80,Athletic Club de Bilbao,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬30K,Right,2,3,4,High/ Medium,Normal,CAM,22,"Aug 31, 2015",,2020,6'0,185lbs,78,79
+170815,S. Defour,30,Belgium,80,80,Burnley,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬65K,Right,2,3,3,Medium/ Medium,Normal,LCM,16,"Aug 16, 2016",,2019,5'9,159lbs,77,67
+166706,M. Ã…Â krtel,33,Slovakia,80,80,FenerbahÃƒÂ§e SK,Ã¢â€šÂ¬6M,Ã¢â€šÂ¬68K,Right,3,2,2,Medium/ High,Normal,LCB,37,"Jul 15, 2016",,2019,6'3,179lbs,39,35
+165109,S. Radu,31,Romania,80,80,Lazio,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬51K,Left,2,3,3,Medium/ High,Normal,LCB,26,"Jan 1, 2008",,2020,6'0,174lbs,67,55
+164468,G. Cahill,32,England,80,80,Chelsea,Ã¢â€šÂ¬8.5M,Ã¢â€šÂ¬99K,Right,3,3,2,Medium/ Medium,Normal,CB,24,"Jan 16, 2012",,2019,6'4,194lbs,28,56
+163711,L. Diarra,33,France,80,80,Paris Saint-Germain,Ã¢â€šÂ¬6M,Ã¢â€šÂ¬75K,Right,3,3,3,Medium/ High,Normal,CDM,19,"Jan 23, 2018",,2019,5'9,163lbs,60,38
+159147,L. Perrin,32,France,80,80,AS Saint-Ãƒâ€°tienne,Ã¢â€šÂ¬8.5M,Ã¢â€šÂ¬37K,Right,2,3,2,Medium/ High,Normal,RCB,24,"Jul 1, 2003",,2020,5'11,176lbs,65,55
+158625,Dante,34,Brazil,80,80,OGC Nice,Ã¢â€šÂ¬4.5M,Ã¢â€šÂ¬37K,Left,3,4,2,Medium/ High,Normal,CB,31,"Aug 23, 2016",,2019,6'2,187lbs,58,47
+156713,A. Granqvist,33,Sweden,80,80,,Ã¢â€šÂ¬0,Ã¢â€šÂ¬0,Right,2,4,2,High/ Medium,Normal,LCB,4,,,,6'4,185lbs,49,51
+153244,A. Gignac,32,France,80,80,Tigres U.A.N.L.,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬70K,Right,3,3,3,Medium/ Medium,Stocky,ST,10,"Jun 18, 2015",,2019,6'2,201lbs,72,83
+150418,M. GÃƒÂ³mez,32,Germany,80,80,VfB Stuttgart,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬46K,Right,3,4,3,High/ Medium,Normal,LS,27,"Jan 1, 2018",,2020,6'2,196lbs,60,81
+148119,I. Akinfeev,32,Russia,80,80,PFC CSKA Moscow,Ã¢â€šÂ¬8.5M,Ã¢â€šÂ¬1K,Right,3,3,1,Medium/ Medium,Normal,GK,1,"Jan 1, 2002",,2022,6'1,172lbs,19,13
+147782,I. Denisov,34,Russia,80,80,Lokomotiv Moscow,Ã¢â€šÂ¬4.5M,Ã¢â€šÂ¬1K,Right,2,3,3,Medium/ High,Normal,RDM,27,"Aug 15, 2013",,2019,5'9,154lbs,67,61
+146760,Juanfran,33,Spain,80,80,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬5.5M,Ã¢â€šÂ¬53K,Right,3,3,3,High/ Medium,Lean,RB,20,"Jan 1, 2011",,2019,5'11,157lbs,81,54
+146748,Diego LÃƒÂ³pez,36,Spain,80,80,RCD Espanyol,Ã¢â€šÂ¬2M,Ã¢â€šÂ¬17K,Right,3,3,1,Medium/ Medium,Lean,GK,13,"Jul 1, 2017",,2020,6'5,196lbs,11,12
+146562,Santi Cazorla,33,Spain,80,80,Villarreal CF,Ã¢â€šÂ¬8.5M,Ã¢â€šÂ¬39K,Right,3,5,5,High/ Low,Stocky,LCM,19,"Aug 6, 2018",,2019,5'6,146lbs,85,71
+146536,JesÃƒÂºs Navas,32,Spain,80,80,Sevilla FC,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬22K,Right,2,2,3,Medium/ Medium,Lean,RM,16,"Jul 28, 2017",,2021,5'7,132lbs,82,64
+142754,J. Mascherano,34,Argentina,80,80,Hebei China Fortune FC,Ã¢â€šÂ¬4.5M,Ã¢â€šÂ¬20K,Right,4,3,2,Low/ High,Normal,LDM,14,"Jan 26, 2018",,2019,5'9,161lbs,63,42
+140293,A. Mirante,34,Italy,80,80,Roma,Ã¢â€šÂ¬6M,Ã¢â€šÂ¬51K,Right,2,2,1,Medium/ Medium,Lean,GK,83,"Jul 1, 2018",,2021,6'4,174lbs,10,17
+139997,D. Srna,36,Croatia,80,80,Cagliari,Ã¢â€šÂ¬1.7M,Ã¢â€šÂ¬27K,Right,3,4,3,High/ High,Normal,RB,33,"Aug 22, 2018",,2019,5'10,172lbs,85,69
+121944,B. Schweinsteiger,33,Germany,80,80,Chicago Fire,Ã¢â€šÂ¬6M,Ã¢â€šÂ¬11K,Right,4,3,3,Medium/ Medium,Normal,LCB,31,"Mar 21, 2017",,2019,6'0,174lbs,76,69
+110677,MoyÃƒÂ¡,34,Spain,80,80,Real Sociedad,Ã¢â€šÂ¬6M,Ã¢â€šÂ¬26K,Right,2,2,1,Medium/ Medium,Normal,GK,13,"Feb 27, 2018",,2020,6'2,183lbs,11,11
+54050,W. Rooney,32,England,80,80,DC United,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬13K,Right,4,4,3,Medium/ High,Stocky,ST,9,"Jul 10, 2018",,2021,5'9,183lbs,77,80
+49369,Fernando Torres,34,Spain,80,80,Sagan Tosu,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬10K,Right,3,4,3,Medium/ Medium,Normal,LS,9,"Jul 16, 2018",,2019,6'1,174lbs,68,76
+49031,S. Sorrentino,39,Italy,80,80,Chievo Verona,Ã¢â€šÂ¬1M,Ã¢â€šÂ¬10K,Right,2,3,1,Medium/ Medium,Normal,GK,70,"Jul 6, 2016",,2022,6'1,187lbs,11,10
+244369,V. Tsygankov,20,Ukraine,79,86,Dynamo Kyiv,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬1K,Left,1,4,4,High/ Medium,Lean,RM,15,"Jan 1, 2015",,2023,5'10,152lbs,76,75
+239818,RÃƒÂºben Dias,21,Portugal,79,85,SL Benfica,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬10K,Right,1,4,2,Medium/ High,Stocky,RCB,6,"Jul 1, 2015",,2023,6'1,181lbs,34,29
+236632,David Neres,21,Brazil,79,86,Ajax,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬18K,Left,2,3,5,High/ Medium,Normal,RW,7,"Feb 1, 2017",,2022,5'9,146lbs,66,76
+233419,Raphinha,21,Brazil,79,86,Sporting CP,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬13K,Left,1,3,4,High/ Medium,Lean,RM,21,"Jul 1, 2018",,2022,5'9,150lbs,76,75
+232097,A. Harit,21,Morocco,79,86,FC Schalke 04,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬27K,Right,2,4,5,High/ Medium,Lean,LCM,25,"Jul 10, 2017",,2021,5'11,148lbs,69,63
+231943,Richarlison,21,Brazil,79,86,Everton,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬79K,Right,1,5,4,High/ High,Normal,ST,30,"Jul 24, 2018",,2023,5'11,154lbs,69,79
+231478,L. MartÃƒÂ­nez,20,Argentina,79,86,Inter,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬54K,Right,1,4,4,High/ Medium,Normal,ST,18,"Jul 5, 2018",,2023,5'9,174lbs,56,82
+230938,F. KessiÃƒÂ©,21,Ivory Coast,79,88,Milan,Ã¢â€šÂ¬19.5M,Ã¢â€šÂ¬24K,Right,2,4,3,High/ High,Normal,CM,14,,Atalanta,"Jun 30, 2019",6'0,168lbs,66,64
+230498,Luimo Boas Santos,30,Brazil,79,79,Santos,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬26K,Right,1,4,4,High/ Medium,Normal,ST,11,"Jan 1, 2018",,2021,5'9,161lbs,42,79
+230312,Gabri PrestÃƒÂ£o,26,Brazil,79,79,Internacional,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬24K,Right,1,3,1,Medium/ Medium,Normal,GK,12,"Jan 1, 2018",,2021,6'1,176lbs,8,9
+230251,Melvin Parrela,30,Brazil,79,79,AmÃƒÂ©rica FC (Minas Gerais),Ã¢â€šÂ¬9.5M,Ã¢â€šÂ¬20K,Right,1,3,2,Medium/ Medium,Normal,LCM,14,"Jan 1, 2018",,2021,6'2,194lbs,52,68
+230212,AntÃƒÂ´nio Chiamuloira,30,Brazil,79,79,Internacional,Ã¢â€šÂ¬9.5M,Ã¢â€šÂ¬30K,Left,1,3,2,Medium/ Medium,Normal,CB,15,"Jan 1, 2018",,2018,6'0,174lbs,55,51
+230201,Maikel Catarino,34,Brazil,79,79,AtlÃƒÂ©tico Mineiro,Ã¢â€šÂ¬3.6M,Ã¢â€šÂ¬38K,Right,1,3,3,High/ Medium,Normal,RB,2,"Jan 1, 2018",,2021,5'10,165lbs,81,48
+229909,A. Lunev,26,Russia,79,81,,Ã¢â€šÂ¬0,Ã¢â€šÂ¬0,Right,1,3,1,Medium/ Medium,Normal,GK,12,,,,6'2,176lbs,16,14
+228941,AndrÃƒÂ© Silva,22,Portugal,79,87,Sevilla FC,Ã¢â€šÂ¬19M,Ã¢â€šÂ¬84K,Right,2,3,4,High/ Medium,Normal,ST,23,,Milan,"Jun 30, 2019",6'1,174lbs,59,82
+227796,C. Pulisic,19,United States,79,87,Borussia Dortmund,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬26K,Right,3,4,4,Medium/ Medium,Lean,RM,10,"Jan 5, 2016",,2020,5'10,152lbs,69,67
+227290,M. DmitroviÃ„â€¡,26,Serbia,79,80,SD Eibar,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬21K,Left,1,2,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2017",,2021,6'4,198lbs,30,20
+227234,L. Tousart,21,France,79,84,Olympique Lyonnais,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬43K,Right,2,3,3,Medium/ High,Normal,RDM,29,"Aug 31, 2015",,2023,6'1,183lbs,60,42
+226161,Marcos Llorente,23,Spain,79,87,Real Madrid,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬110K,Right,1,3,3,Medium/ Medium,Lean,CDM,18,"Nov 28, 2014",,2021,6'0,161lbs,56,39
+225997,B. VerbiÃ„Â,24,Slovenia,79,81,Dynamo Kyiv,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬1K,Right,1,3,4,High/ Medium,Normal,LM,21,"Jan 1, 2018",,2023,5'10,154lbs,70,74
+225953,S. Bergwijn,20,Netherlands,79,86,PSV,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬17K,Right,1,2,4,Medium/ Medium,Stocky,LW,22,"Jul 1, 2014",,2022,5'10,172lbs,72,73
+225711,A. Diallo,22,France,79,86,Borussia Dortmund,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬43K,Left,2,3,3,High/ Medium,Lean,LCB,4,"Jul 1, 2018",,2023,6'1,174lbs,66,38
+225663,A. Golovin,22,Russia,79,85,AS Monaco,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬61K,Right,1,4,4,High/ High,Lean,CAM,17,"Jul 27, 2018",,2023,5'11,152lbs,69,72
+225647,M. CampaÃƒÂ±a,29,Uruguay,79,80,Independiente,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬21K,Right,1,3,1,Medium/ Medium,Normal,GK,25,"Jan 1, 2017",,2021,6'1,165lbs,21,16
+224254,C. PavÃƒÂ³n,22,Argentina,79,85,Boca Juniors,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬27K,Right,1,3,3,High/ Medium,Normal,RW,7,"Jul 14, 2014",,2022,5'9,172lbs,76,72
+224069,K. Toko-Ekambi,25,Cameroon,79,80,Villarreal CF,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬38K,Right,2,4,3,High/ Medium,Lean,LS,7,"Jul 2, 2018",,2023,6'1,163lbs,74,81
+223682,Granell,29,Spain,79,79,Girona FC,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬37K,Left,1,4,3,Medium/ Medium,Normal,LWB,6,"Jul 1, 2014",,2021,5'9,154lbs,73,74
+223061,F. Cervi,24,Argentina,79,84,SL Benfica,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬15K,Left,2,3,5,High/ High,Normal,LW,11,"Jan 4, 2016",,2023,5'5,137lbs,78,65
+222028,J. Weigl,22,Germany,79,84,Borussia Dortmund,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬43K,Right,3,3,3,Medium/ Medium,Lean,CDM,33,"Jul 1, 2015",,2021,6'1,159lbs,58,41
+221660,V. LindelÃƒÂ¶f,23,Sweden,79,85,Manchester United,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬91K,Right,2,3,3,Medium/ Medium,Lean,CB,3,"Jul 1, 2017",,2021,6'2,176lbs,64,36
+220018,A. RebiÃ„â€¡,24,Croatia,79,82,Eintracht Frankfurt,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬39K,Right,1,3,3,High/ Medium,Normal,CAM,4,"Dec 20, 2017",,2022,6'1,172lbs,74,79
+219932,A. Sanabria,22,Paraguay,79,85,Real Betis,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬27K,Right,1,4,4,High/ Medium,Normal,ST,11,"Jul 15, 2016",,2021,5'11,163lbs,67,81
+219576,R. Battaglia,26,Argentina,79,80,Sporting CP,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬17K,Right,1,4,3,Medium/ Medium,Normal,CM,16,"Jul 1, 2017",,2023,6'2,174lbs,46,63
+216497,M. Philipp,24,Germany,79,84,Borussia Dortmund,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬53K,Right,2,4,4,High/ Medium,Lean,ST,20,"Jul 1, 2017",,2022,6'0,174lbs,66,81
+216388,A. Saint-Maximin,21,France,79,86,OGC Nice,Ã¢â€šÂ¬18M,Ã¢â€šÂ¬31K,Right,2,4,4,High/ Low,Normal,RS,7,"Aug 7, 2017",,2020,5'8,148lbs,66,70
+216150,D. Zappacosta,26,Italy,79,81,Chelsea,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬94K,Right,2,3,3,High/ High,Lean,RB,21,"Aug 31, 2017",,2021,6'0,159lbs,81,59
+215353,L. Alario,25,Argentina,79,82,Bayer 04 Leverkusen,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬67K,Right,2,3,3,High/ Medium,Normal,ST,13,"Aug 31, 2017",,2022,6'0,172lbs,48,84
+215061,D. Benedetto,28,Argentina,79,79,Boca Juniors,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬32K,Right,2,5,3,High/ Low,Normal,ST,9,"Jul 1, 2016",,2021,5'10,176lbs,61,86
+215057,I. Marcone,28,Argentina,79,80,Cruz Azul,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬31K,Right,1,3,3,Medium/ High,Normal,RDM,23,"Jul 1, 2018",,2023,6'0,183lbs,58,48
+214947,J. Gbamin,22,Ivory Coast,79,84,1. FSV Mainz 05,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬26K,Right,1,3,3,Medium/ High,Normal,RCM,25,"Jul 13, 2016",,2023,6'1,183lbs,69,40
+213991,J. Lerma,23,Colombia,79,84,Bournemouth,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬55K,Right,1,4,3,Medium/ High,Lean,RCM,8,"Aug 7, 2018",,2023,5'10,154lbs,66,56
+213516,Ricardo Horta,23,Portugal,79,84,SC Braga,Ã¢â€šÂ¬17M,Ã¢â€šÂ¬16K,Right,1,4,3,High/ Medium,Lean,LM,21,"Jul 19, 2017",,2022,5'8,139lbs,77,74
+213160,R. Zobnin,24,Russia,79,86,Spartak Moscow,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬1K,Right,1,3,4,High/ High,Lean,LDM,8,"Jul 1, 2016",,2021,6'0,165lbs,69,65
+212150,M. Meyer,22,Germany,79,83,Crystal Palace,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬53K,Right,2,4,4,Medium/ Medium,Lean,LM,7,"Aug 3, 2018",,2021,5'8,150lbs,74,63
+211368,Bruma,23,Portugal,79,83,RB Leipzig,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬48K,Right,2,4,4,High/ Medium,Lean,LW,18,"Jul 1, 2017",,2022,5'8,154lbs,72,71
+211267,R. CenturiÃƒÂ³n,25,Argentina,79,81,Racing Club,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬25K,Right,1,3,4,High/ Medium,Normal,RM,10,"Jan 22, 2018",,2021,5'9,163lbs,71,72
+210455,Jonny,24,Spain,79,83,Wolverhampton Wanderers,Ã¢â€šÂ¬13.5M,Ã¢â€šÂ¬43K,Right,2,3,3,High/ High,Normal,LWB,19,,AtlÃƒÂ©tico Madrid,"Jun 30, 2019",5'7,154lbs,77,34
+210411,OtÃƒÂ¡vio,23,Brazil,79,85,FC Porto,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬15K,Right,1,3,4,Medium/ Medium,Lean,RM,25,"Sep 1, 2014",,2021,5'8,157lbs,78,67
+210324,J. Hofmann,25,Germany,79,80,Borussia MÃƒÂ¶nchengladbach,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬32K,Right,2,4,3,Medium/ Medium,Lean,CAM,23,"Jan 1, 2016",,2020,5'9,154lbs,81,69
+208920,N. AkÃƒÂ©,23,Netherlands,79,84,Bournemouth,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬55K,Left,1,3,2,Medium/ High,Lean,CB,15,"Jun 30, 2017",,2022,5'11,165lbs,63,45
+208334,J. Hector,28,Germany,79,79,1. FC KÃƒÂ¶ln,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬26K,Left,3,3,3,Medium/ Medium,Normal,LWB,3,"Feb 25, 2012",,2023,6'1,165lbs,79,55
+207993,S. KolaÃ…Â¡inac,25,Bosnia Herzegovina,79,82,Arsenal,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬89K,Left,2,2,3,Medium/ High,Stocky,LB,31,"Jul 1, 2017",,2022,6'0,187lbs,77,59
+207939,G. Pizarro,28,Argentina,79,79,Tigres U.A.N.L.,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬58K,Right,1,3,3,Medium/ High,Lean,LDM,19,"Jul 2, 2018",,2021,6'1,163lbs,62,59
+207732,Roger,27,Spain,79,80,Levante UD,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬32K,Right,2,3,3,High/ Medium,Normal,RS,9,"Jul 1, 2011",,2023,5'10,163lbs,66,82
+206652,Sergio Rico,24,Spain,79,83,Fulham,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬13K,Right,2,3,1,Medium/ Medium,Lean,GK,25,,Sevilla FC,"Jun 30, 2019",6'4,194lbs,17,14
+206304,L. MilivojeviÃ„â€¡,27,Serbia,79,81,Crystal Palace,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬56K,Right,1,2,2,Medium/ High,Normal,RCM,4,"Feb 1, 2017",,2020,6'1,176lbs,66,54
+205407,D. Baselli,26,Italy,79,82,Torino,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬49K,Right,2,3,4,High/ Medium,Lean,CDM,8,"Jul 10, 2015",,2020,6'0,154lbs,74,67
+205193,K. Rekik,23,Netherlands,79,83,Hertha BSC,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬26K,Left,1,2,2,Medium/ High,Normal,CB,4,"Jul 1, 2017",,2021,6'1,174lbs,43,33
+205192,Denis SuÃƒÂ¡rez,24,Spain,79,86,FC Barcelona,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬120K,Right,2,3,3,Medium/ Medium,Lean,CM,6,"Jul 4, 2016",,2020,5'9,152lbs,77,72
+204638,W. Orban,25,Hungary,79,81,RB Leipzig,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬48K,Right,2,3,2,Medium/ High,Normal,RCB,6,"Jul 1, 2015",,2022,6'1,183lbs,38,38
+204614,MÃƒÂ¡rio Rui,27,Portugal,79,80,Napoli,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬60K,Left,2,3,3,High/ Medium,Lean,LB,19,"Jan 6, 2018",,2022,5'7,148lbs,79,27
+204525,IÃƒÂ±igo MartÃƒÂ­nez,27,Spain,79,80,Athletic Club de Bilbao,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬26K,Left,2,2,2,Medium/ Medium,Normal,LCB,4,"Jan 30, 2018",,2023,6'0,170lbs,51,42
+204311,K. Zouma,23,France,79,83,Everton,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬80K,Right,2,3,2,Medium/ Medium,Normal,CB,22,,Chelsea,"Jun 30, 2019",6'3,212lbs,49,47
+204277,Roque Mesa,29,Spain,79,79,Sevilla FC,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬20K,Right,2,3,3,High/ High,Stocky,CDM,7,"Jul 2, 2018",,2021,5'7,163lbs,67,65
+204082,J. Brooks,25,United States,79,84,VfL Wolfsburg,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬44K,Left,2,3,2,Medium/ Medium,Normal,LCB,6,"Jul 1, 2017",,2022,6'4,172lbs,36,39
+203775,L. Karius,25,Germany,79,83,BeÃ…Å¸iktaÃ…Å¸ JK,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬71K,Right,2,3,1,Medium/ Medium,Normal,GK,1,,Liverpool,"May 31, 2020",6'2,192lbs,14,18
+203757,ZÃƒÂ© LuÃƒÂ­s,27,Cape Verde,79,80,Spartak Moscow,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬1K,Left,1,4,4,Medium/ Medium,Normal,ST,9,"Jul 7, 2015",,2021,6'0,194lbs,45,74
+203483,D. Klaassen,25,Netherlands,79,81,SV Werder Bremen,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬32K,Right,2,3,3,High/ High,Normal,LCM,30,"Jul 27, 2018",,2022,5'10,154lbs,63,77
+203362,M. Elyounoussi,23,Norway,79,85,Southampton,Ã¢â€šÂ¬17.5M,Ã¢â€šÂ¬48K,Right,1,4,4,High/ Medium,Normal,LM,13,"Jun 29, 2018",,2023,5'10,154lbs,75,72
+203106,L. Bittencourt,24,Germany,79,82,TSG 1899 Hoffenheim,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬35K,Right,2,4,4,High/ Medium,Lean,LM,13,"Jul 1, 2018",,2023,5'7,137lbs,73,65
+202648,Sergi Darder,24,Spain,79,83,RCD Espanyol,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬29K,Right,2,3,4,Medium/ Low,Lean,RCM,10,"Jul 10, 2018",,2023,5'11,157lbs,68,59
+202562,J. Roussillon,25,France,79,84,VfL Wolfsburg,Ã¢â€šÂ¬14M,Ã¢â€šÂ¬44K,Left,2,3,3,High/ Medium,Stocky,LB,15,"Aug 6, 2018",,2022,5'9,176lbs,77,64
+202325,D. Demme,26,Germany,79,80,RB Leipzig,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬50K,Right,1,4,3,Medium/ High,Normal,CDM,31,"Jan 8, 2014",,2021,5'7,150lbs,71,26
+202201,J. Gouweleeuw,26,Netherlands,79,80,FC Augsburg,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬28K,Right,1,3,2,High/ Medium,Normal,RCB,6,"Jan 9, 2016",,2022,6'2,172lbs,60,46
+201862,M. Rojo,28,Argentina,79,79,Manchester United,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬115K,Left,3,2,3,Medium/ High,Normal,CB,16,"Aug 20, 2014",,2021,6'2,176lbs,74,50
+201519,J. Veretout,25,France,79,84,Fiorentina,Ã¢â€šÂ¬16.5M,Ã¢â€šÂ¬59K,Right,1,3,3,Medium/ High,Normal,CDM,17,"Jul 25, 2017",,2021,5'9,148lbs,74,66
+201510,L. Kurzawa,25,France,79,82,Paris Saint-Germain,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬68K,Left,2,3,4,High/ Low,Lean,LB,20,"Aug 27, 2015",,2020,6'0,168lbs,79,73
+201508,G. RamÃƒÂ­rez,27,Uruguay,79,79,Sampdoria,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬41K,Left,2,3,4,Medium/ Low,Lean,CAM,11,"Aug 4, 2017",,2020,6'0,170lbs,74,74
+201505,David LÃƒÂ³pez,28,Spain,79,79,RCD Espanyol,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬32K,Right,1,3,2,Medium/ High,Normal,RCB,15,"Aug 26, 2016",,2023,6'0,179lbs,53,65
+201325,C. TÃ„Æ’tÃ„Æ’ruÃ…Å¸anu,32,Romania,79,79,FC Nantes,Ã¢â€šÂ¬7M,Ã¢â€šÂ¬23K,Right,2,3,1,Medium/ Medium,Lean,GK,12,"Jul 27, 2017",,2019,6'5,190lbs,13,15
+201143,A. Mandi,26,Algeria,79,82,Real Betis,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬26K,Right,1,3,2,High/ Medium,Lean,RCB,23,"Jul 1, 2016",,2021,6'0,172lbs,78,41
+201042,D. SidibÃƒÂ©,25,France,79,80,AS Monaco,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬61K,Right,2,4,3,High/ High,Normal,RB,19,"Jul 9, 2016",,2022,6'0,179lbs,78,62
+200641,Y. Konoplyanka,28,Ukraine,79,79,FC Schalke 04,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬41K,Right,2,3,4,Medium/ Medium,Normal,LW,11,"Aug 30, 2016",,2020,5'10,172lbs,75,76
+200260,S. Berghuis,26,Netherlands,79,80,Feyenoord,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬20K,Left,2,3,3,Medium/ Medium,Lean,RW,19,"Jul 31, 2017",,2021,6'0,159lbs,79,75
+200155,H. Vanaken,25,Belgium,79,81,Club Brugge KV,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬27K,Right,1,5,4,High/ High,Lean,CAM,18,"Jul 1, 2015",,2020,6'5,176lbs,71,74
+199823,CampaÃƒÂ±a,25,Spain,79,82,Levante UD,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬28K,Right,1,3,3,Medium/ Medium,Normal,CDM,24,"Aug 15, 2016",,2020,5'10,154lbs,73,73
+199767,M. van Ginkel,25,Netherlands,79,80,Chelsea,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬98K,Right,2,4,3,High/ High,Lean,CM,26,"Jul 5, 2013",,2020,6'1,181lbs,71,76
+199561,Nolito,31,Spain,79,79,Sevilla FC,Ã¢â€šÂ¬11M,Ã¢â€šÂ¬21K,Right,3,3,4,High/ Low,Normal,LM,8,"Jul 16, 2017",,2020,5'9,159lbs,77,79
+199439,M. Gregoritsch,24,Austria,79,82,FC Augsburg,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬27K,Left,2,3,4,High/ Low,Normal,CAM,11,"Jul 5, 2017",,2022,6'4,192lbs,65,80
+199416,Ibai GÃƒÂ³mez,28,Spain,79,79,Deportivo AlavÃƒÂ©s,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬31K,Right,1,4,3,High/ Medium,Normal,RM,11,"Jul 30, 2016",,2019,5'10,159lbs,79,79
+199304,Danilo,26,Brazil,79,80,Manchester City,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬110K,Right,2,4,3,High/ Medium,Lean,RB,3,"Jul 23, 2017",,2022,6'0,172lbs,74,61
+199189,R. Barkley,24,England,79,82,Chelsea,Ã¢â€šÂ¬16M,Ã¢â€šÂ¬89K,Right,2,5,4,Medium/ Medium,Normal,CAM,15,"Jan 5, 2018",,2023,6'1,192lbs,65,68
+199005,M. Ryan,26,Australia,79,81,Brighton & Hove Albion,Ã¢â€šÂ¬10.5M,Ã¢â€šÂ¬41K,Right,1,4,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2017",,2022,6'0,181lbs,23,11
+198715,Sergio LeÃƒÂ³n,29,Spain,79,79,Real Betis,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬32K,Right,2,4,4,High/ Medium,Normal,ST,7,"Jul 1, 2017",,2021,5'10,161lbs,41,82
+198200,B. Stambouli,27,France,79,79,FC Schalke 04,Ã¢â€šÂ¬10.5M,Ã¢â€šÂ¬33K,Right,2,4,2,Low/ High,Normal,RCB,17,"Aug 26, 2016",,2020,5'11,181lbs,45,50
+198118,J. Guilavogui,27,France,79,80,VfL Wolfsburg,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬46K,Right,2,3,2,Medium/ High,Lean,CDM,23,"May 17, 2016",,2020,6'2,170lbs,52,49
+198031,SÃƒÂ©rgio Oliveira,26,Portugal,79,82,FC Porto,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬17K,Right,1,3,3,Medium/ Medium,Normal,CM,27,"Jul 1, 2015",,2021,5'11,159lbs,76,67
+197083,D. Caligiuri,30,Italy,79,79,FC Schalke 04,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬33K,Right,2,4,3,Medium/ Medium,Normal,RWB,18,"Jan 25, 2017",,2020,6'0,176lbs,83,72
+196978,C. Wilson,26,England,79,81,Bournemouth,Ã¢â€šÂ¬15.5M,Ã¢â€šÂ¬77K,Right,1,3,4,High/ Medium,Normal,ST,13,"Jul 4, 2014",,2022,5'11,146lbs,52,83
+194957,P. Jones,26,England,79,80,Manchester United,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬110K,Right,2,3,2,Medium/ High,Normal,CB,4,"Jul 1, 2011",,2019,6'1,157lbs,60,44
+194761,Borja GarcÃƒÂ­a,27,Spain,79,79,Girona FC,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬35K,Right,1,3,3,High/ Medium,Normal,LM,10,"Aug 26, 2015",,2022,5'9,159lbs,70,77
+193738,Y. Belhanda,28,Morocco,79,79,Galatasaray SK,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬65K,Right,2,4,4,Medium/ Medium,Normal,CAM,10,"Jul 4, 2017",,2021,5'10,165lbs,79,74
+193601,G. Pezzella,27,Argentina,79,81,Fiorentina,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬56K,Right,1,3,2,Medium/ Medium,Normal,RCB,20,"Jul 1, 2018",,2022,6'1,179lbs,40,48
+193171,Jaume Costa,30,Spain,79,79,Villarreal CF,Ã¢â€šÂ¬9M,Ã¢â€šÂ¬34K,Left,1,3,3,High/ High,Normal,LB,11,"Jul 1, 2010",,2021,5'7,137lbs,80,53
+192991,C. Tosun,27,Turkey,79,80,Everton,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬105K,Right,2,4,3,High/ Medium,Normal,ST,9,"Jan 5, 2018",,2022,6'0,172lbs,64,79
+192679,Escudero,28,Spain,79,79,Sevilla FC,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬20K,Left,1,2,3,High/ Medium,Lean,LM,18,"Jul 3, 2015",,2021,5'9,159lbs,81,56
+192678,Kike GarcÃƒÂ­a,28,Spain,79,79,SD Eibar,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬32K,Right,1,4,3,Medium/ Medium,Normal,ST,17,"Feb 3, 2016",,2021,6'1,174lbs,53,80
+192598,Elkeson,28,Brazil,79,79,Shanghai SIPG FC,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬25K,Right,2,4,4,High/ Medium,Stocky,ST,9,"Jan 21, 2016",,2020,5'11,170lbs,67,75
+192064,Ricardo Goulart,27,Brazil,79,80,Guangzhou Evergrande Taobao FC,Ã¢â€šÂ¬14.5M,Ã¢â€šÂ¬25K,Right,2,4,4,High/ Medium,Normal,CF,11,"Jan 13, 2015",,2020,5'11,176lbs,73,77
+191076,J. GuÃƒÂ°mundsson,27,Iceland,79,79,Burnley,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬61K,Left,1,4,4,High/ High,Normal,RM,7,"Jul 20, 2016",,2021,5'10,170lbs,82,70
+190456,N. Clyne,27,England,79,80,Liverpool,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬94K,Right,2,2,3,High/ Medium,Normal,RB,2,"Jul 1, 2015",,2020,5'9,148lbs,78,54
+190243,M. Hitz,30,Switzerland,79,79,Borussia Dortmund,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬41K,Right,2,3,1,Medium/ Medium,Normal,GK,35,"Jul 1, 2018",,2021,6'4,196lbs,12,27
+190149,De Marcos,29,Spain,79,79,Athletic Club de Bilbao,Ã¢â€šÂ¬9.5M,Ã¢â€šÂ¬27K,Right,2,3,4,High/ Medium,Lean,RB,18,"Jul 1, 2009",,2019,6'0,176lbs,77,59
+189682,B. Mee,28,England,79,79,Burnley,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬58K,Left,1,3,2,Medium/ High,Normal,LCB,6,"Jan 17, 2012",,2019,6'0,181lbs,63,30
+189681,Rafael,27,Brazil,79,79,Olympique Lyonnais,Ã¢â€šÂ¬10.5M,Ã¢â€šÂ¬60K,Right,2,3,4,High/ Medium,Normal,RB,4,"Aug 3, 2015",,2019,5'8,172lbs,77,53
+189560,Iborra,30,Spain,79,79,Leicester City,Ã¢â€šÂ¬9.5M,Ã¢â€šÂ¬66K,Right,2,4,3,Medium/ Medium,Normal,CDM,21,"Jul 6, 2017",,2021,6'3,201lbs,53,69
+189461,J. Wilshere,26,England,79,81,West Ham United,Ã¢â€šÂ¬15M,Ã¢â€šÂ¬83K,Left,3,2,3,Medium/ Medium,Normal,CM,19,"Jul 9, 2018",,2021,5'8,150lbs,73,62
+189433,B. HÃƒÂ¼bner,28,Germany,79,79,TSG 1899 Hoffenheim,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬39K,Left,2,2,2,Medium/ Medium,Normal,CB,21,"Jul 1, 2016",,2021,6'4,190lbs,47,20
+189423,Souza,29,Brazil,79,79,Al Ahli,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬44K,Right,2,4,3,Medium/ Medium,Normal,CDM,6,"Aug 23, 2018",,2021,6'2,176lbs,63,55
+189271,F. Coquelin,27,France,79,80,Valencia CF,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬36K,Right,2,3,3,Medium/ High,Normal,LCM,17,"Jan 11, 2018",,2022,5'10,163lbs,60,54
+188081,Alex Teixeira,28,Brazil,79,79,Jiangsu Suning FC,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬30K,Right,3,4,4,High/ Medium,Normal,LS,10,"Feb 5, 2016",,2019,5'8,154lbs,63,77
+187735,A. Dzagoev,28,Russia,79,79,PFC CSKA Moscow,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬1K,Right,3,3,4,High/ Medium,Normal,RDM,10,"Jan 1, 2008",,2019,5'10,165lbs,75,70
+187347,I. Smolnikov,29,Russia,79,79,,Ã¢â€šÂ¬0,Ã¢â€šÂ¬0,Right,2,3,3,High/ High,Lean,RB,2,,,,5'10,154lbs,73,61
+187052,Y. M'Vila,28,France,79,80,AS Saint-Ãƒâ€°tienne,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬36K,Right,2,3,3,Medium/ Medium,Normal,LDM,6,"Jan 12, 2018",,2022,6'0,176lbs,62,56
+186832,K. Asamoah,29,Ghana,79,79,Inter,Ã¢â€šÂ¬9.5M,Ã¢â€šÂ¬62K,Left,2,3,4,High/ High,Stocky,LB,18,"Jul 2, 2018",,2021,5'8,165lbs,78,55
+186148,R. Zieler,29,Germany,79,80,VfB Stuttgart,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬32K,Right,2,3,1,Medium/ Medium,Normal,GK,1,"Jul 11, 2017",,2020,6'2,179lbs,15,10
+186132,D. Drinkwater,28,England,79,79,Chelsea,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬110K,Right,2,4,3,Medium/ Medium,Normal,CM,6,"Aug 31, 2017",,2022,5'10,179lbs,64,60
+185431,N. KaliniÃ„â€¡,30,Croatia,79,79,AtlÃƒÂ©tico Madrid,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬60K,Right,3,4,3,High/ High,Lean,ST,9,"Aug 9, 2018",,2021,6'2,176lbs,60,83
+184949,Mariano,32,Brazil,79,79,Galatasaray SK,Ã¢â€šÂ¬7M,Ã¢â€šÂ¬57K,Right,1,3,3,Medium/ Medium,Lean,RB,2,"Jul 17, 2017",,2020,5'10,152lbs,83,54
+184881,S. Feghouli,28,Algeria,79,79,Galatasaray SK,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬65K,Right,3,3,4,High/ Low,Normal,RM,89,"Aug 14, 2017",,2022,5'9,165lbs,78,68
+184826,Adrien Silva,29,Portugal,79,79,Leicester City,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬75K,Right,3,4,3,Medium/ High,Normal,CM,23,"Jan 1, 2018",,2021,5'9,152lbs,77,67
+184134,Fernando,30,Brazil,79,79,Galatasaray SK,Ã¢â€šÂ¬9.5M,Ã¢â€šÂ¬57K,Right,2,2,3,Medium/ High,Lean,CDM,25,"Aug 4, 2017",,2020,6'0,168lbs,62,54
+183909,I. TraorÃƒÂ©,30,Guinea,79,79,Borussia MÃƒÂ¶nchengladbach,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬34K,Left,2,2,4,High/ High,Lean,RM,16,"Jul 1, 2014",,2021,5'7,134lbs,80,66
+183892,G. Mercado,31,Argentina,79,79,Sevilla FC,Ã¢â€šÂ¬8.5M,Ã¢â€šÂ¬19K,Right,1,3,2,Medium/ Medium,Stocky,RCB,2,"Aug 9, 2016",,2019,5'11,183lbs,68,60
+183580,N. Petersen,29,Germany,79,79,SC Freiburg,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬35K,Right,2,4,3,High/ High,Normal,RS,18,"Jul 1, 2015",,2021,6'2,185lbs,58,84
+183497,O. Karnezis,32,Greece,79,79,Napoli,Ã¢â€šÂ¬7M,Ã¢â€šÂ¬48K,Right,2,3,1,Medium/ Medium,Normal,GK,27,"Jul 6, 2018",,2021,6'3,179lbs,19,16
+183285,M. Sakho,28,France,79,80,Crystal Palace,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬58K,Left,3,2,2,Medium/ High,Normal,CB,5,"Aug 31, 2017",,2021,6'2,183lbs,58,23
+182002,Sidnei,28,Brazil,79,80,Real Betis,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬27K,Right,2,2,2,High/ Medium,Stocky,LCB,12,"Aug 2, 2018",,2022,6'2,194lbs,58,46
+181820,S. JovetiÃ„â€¡,28,Montenegro,79,79,AS Monaco,Ã¢â€šÂ¬13M,Ã¢â€šÂ¬79K,Right,3,4,3,Medium/ Medium,Normal,ST,10,"Aug 29, 2017",,2021,6'0,174lbs,72,80
+178311,Eder,31,Italy,79,79,Jiangsu Suning FC,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬29K,Right,3,4,4,High/ Medium,Normal,RS,9,"Jul 13, 2018",,2021,5'10,159lbs,72,78
+178224,J. HernÃƒÂ¡ndez,30,Mexico,79,79,West Ham United,Ã¢â€šÂ¬12M,Ã¢â€šÂ¬90K,Right,3,3,3,Medium/ Low,Normal,ST,17,"Jul 24, 2017",,2020,5'9,161lbs,64,84
+177723,Fabricio,30,Spain,79,79,Fulham,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬47K,Right,1,4,1,Medium/ Medium,Normal,GK,31,"Jul 24, 2018",,2021,6'0,176lbs,15,14
+177644,Kiko Casilla,31,Spain,79,79,Real Madrid,Ã¢â€šÂ¬7.5M,Ã¢â€šÂ¬105K,Right,2,2,1,Medium/ Medium,Normal,GK,13,"Jul 19, 2015",,2020,6'3,190lbs,24,14
+177633,ÃƒÂngel,31,Spain,79,79,Getafe CF,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬31K,Right,1,3,3,High/ Medium,Lean,ST,9,"Jul 6, 2017",,2020,5'8,150lbs,56,79
+177358,M. Schneiderlin,28,France,79,79,Everton,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬92K,Right,2,3,3,Low/ High,Lean,CDM,18,"Jan 12, 2017",,2021,6'1,165lbs,65,58
+176944,M. Fellaini,30,Belgium,79,79,Manchester United,Ã¢â€šÂ¬11.5M,Ã¢â€šÂ¬120K,Right,3,3,3,Medium/ Medium,Lean,CM,8,"Sep 2, 2013",,2020,6'4,187lbs,61,73
+176731,P. Wernbloom,32,Sweden,79,79,PAOK,Ã¢â€šÂ¬7M,Ã¢â€šÂ¬1K,Right,2,3,3,Medium/ High,Normal,CDM,19,"Aug 17, 2018",,2021,6'2,187lbs,58,70
+176550,D. Ospina,29,Colombia,79,79,Napoli,Ã¢â€šÂ¬8.5M,Ã¢â€šÂ¬80K,Right,2,3,1,Medium/ Medium,Normal,GK,1,,Arsenal,"Jun 30, 2019",6'0,176lbs,11,10
+173426,S. Mignolet,30,Belgium,79,79,Liverpool,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬76K,Right,3,2,1,Medium/ Medium,Normal,GK,12,"Jun 25, 2013",,2021,6'4,192lbs,11,11
+172723,A. BegoviÃ„â€¡,31,Bosnia Herzegovina,79,79,Bournemouth,Ã¢â€šÂ¬7.5M,Ã¢â€šÂ¬52K,Right,3,2,1,Medium/ Medium,Lean,GK,27,"May 30, 2017",,2020,6'6,183lbs,14,19
+170797,N. Ã…Å¾ahin,29,Turkey,79,79,SV Werder Bremen,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬32K,Left,3,3,3,Medium/ Medium,Lean,CDM,17,"Aug 31, 2018",,2020,5'11,161lbs,79,61
+169705,R. Bertrand,28,England,79,79,Southampton,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬53K,Left,2,3,3,High/ Medium,Normal,LB,21,"Feb 2, 2015",,2021,5'10,187lbs,82,50
+169115,A. Masiello,32,Italy,79,79,Atalanta,Ã¢â€šÂ¬7M,Ã¢â€šÂ¬30K,Right,2,2,2,Medium/ High,Normal,CB,5,"Jul 26, 2011",,2023,6'0,181lbs,60,23
+164859,T. Walcott,29,England,79,79,Everton,Ã¢â€šÂ¬12.5M,Ã¢â€šÂ¬105K,Right,3,3,3,Medium/ Medium,Lean,RM,11,"Jan 17, 2018",,2021,5'9,150lbs,72,74
+164029,Charles,34,Brazil,79,79,SD Eibar,Ã¢â€šÂ¬6.5M,Ã¢â€šÂ¬31K,Right,1,3,4,High/ High,Normal,LS,19,"Jul 4, 2017",,2019,5'10,165lbs,51,80
+163264,T. Heaton,32,England,79,79,Burnley,Ã¢â€šÂ¬7M,Ã¢â€šÂ¬45K,Right,2,3,1,Medium/ Medium,Normal,GK,1,"Jul 1, 2013",,2020,6'2,203lbs,17,12
+161648,H. Ben Arfa,31,France,79,79,Stade Rennais FC,Ã¢â€šÂ¬11M,Ã¢â€šÂ¬38K,Left,3,4,5,Medium/ Low,Lean,CAM,18,"Sep 2, 2018",,2019,5'10,163lbs,70,70
+160741,D. Abraham,31,Argentina,79,79,Eintracht Frankfurt,Ã¢â€šÂ¬8.5M,Ã¢â€šÂ¬37K,Right,2,2,2,Medium/ Medium,Normal,CB,19,"Jul 2, 2015",,2021,6'2,185lbs,44,46
+159065,E. Lavezzi,33,Argentina,79,79,Hebei China Fortune FC,Ã¢â€šÂ¬8M,Ã¢â€šÂ¬22K,Right,3,4,4,High/ Low,Stocky,CAM,22,"Feb 17, 2016",,2018,5'8,165lbs,77,80
+158232,S. Kalou,32,Ivory Coast,79,79,Hertha BSC,Ã¢â€šÂ¬10M,Ã¢â€šÂ¬34K,Right,3,3,4,Medium/ Low,Lean,LM,8,"Aug 31, 2014",,2020,6'0,170lbs,67,82
+158133,J. FarfÃƒÂ¡n,33,Peru,79,79,Lokomotiv Moscow,Ã¢â€šÂ¬7.5M,Ã¢â€šÂ¬1K,Right,2,3,4,Medium/ Low,Normal,CAM,10,"Jan 29, 2017",,2020,5'10,185lbs,80,73
+157301,R. Babel,31,Netherlands,79,79,BeÃ…Å¸iktaÃ…Å¸ JK,Ã¢â€šÂ¬11M,Ã¢â€šÂ¬55K,Right,3,3,4,Medium/ Low,Normal,LM,11,"Jan 2, 2017",,2019,6'1,187lbs,72,77
+152908,A. Young,32,England,79,79,Manchester United,Ã¢â€šÂ¬7M,Ã¢â€šÂ¬110K,Right,2,3,4,High/ Medium,Lean,LB,18,"Jul 1, 2011",,2019,5'9,143lbs,84,64
+150724,J. Hart,31,England,79,79,Burnley,Ã¢â€šÂ¬7.5M,Ã¢â€šÂ¬45K,Right,3,3,1,Medium/ Medium,Normal,GK,20,"Aug 7, 2018",,2020,6'5,201lbs,14,14
+142707,L. LÃƒÂ³pez,35,Argentina,79,79,Racing Club,Ã¢â€šÂ¬6M,Ã¢â€šÂ¬22K,Right,2,4,4,High/ High,Normal,LS,15,"Jan 4, 2016",,2019,5'9,159lbs,66,80
